@@ -1,0 +1,302 @@
+[
+  {
+    "id": "eval_001",
+    "transcript": "35 saal ki mahila hai, Vata Prakriti. 2 hafte se kabz ki shikayat hai. Pet mein bharipan aur gas banti hai. Triphala Churna 5 gram raat ko garam paani ke saath. Abhayarishta 15ml subah shaam khana ke baad. Pavanamuktasana karein. 2 hafte mein follow up.",
+    "language": "hi",
+    "expected": {
+      "age": 35,
+      "sex": "Female",
+      "prakriti": "Vata",
+      "condition": "Vibandha",
+      "icd10_code": "K59.0",
+      "prescriptions": ["Triphala Churna", "Abhayarishta"],
+      "complaints": ["Constipation"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_002",
+    "transcript": "52 year old male patient with Pitta-Kapha prakriti. Chief complaint burning sensation in chest since 3 weeks. Diagnosed as Amlapitta. Avipattikar Churna 3g twice daily before food. Kamdudha Rasa 250mg with milk. Avoid spicy oily food. Follow up 2 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 52,
+      "sex": "Male",
+      "prakriti": "Pitta-Kapha",
+      "condition": "Amlapitta",
+      "icd10_code": "K21",
+      "prescriptions": ["Avipattikar Churna", "Kamdudha Rasa"],
+      "complaints": ["Burning sensation in chest"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_003",
+    "transcript": "58 saal ka male patient, Vata-Kapha Prakriti. 3 mahine se ghutno mein dard aur sujan. Sandhivata diagnosis. Yogaraja Guggulu 2 goli subah shaam. Maharasnadi Kashaya 15ml khana ke baad. Avoid cold food. Trikonasana aur Veerabhadrasana. 1 hafte mein follow up.",
+    "language": "hi",
+    "expected": {
+      "age": 58,
+      "sex": "Male",
+      "prakriti": "Vata-Kapha",
+      "condition": "Sandhivata",
+      "icd10_code": "M15-M19",
+      "prescriptions": ["Yogaraja Guggulu", "Maharasnadi Kashaya"],
+      "complaints": ["Joint pain", "Swelling"],
+      "follow_up": "1 week"
+    }
+  },
+  {
+    "id": "eval_004",
+    "transcript": "28 years old female, Pitta prakriti. Skin rash on arms since 1 month. Itching worsens at night. Kaishore Guggulu 2 tablets twice daily. Mahamanjisthadi Kashaya 15ml morning and evening. Apply Jatyadi Taila externally. Avoid sour and spicy food. Follow up in 3 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 28,
+      "sex": "Female",
+      "prakriti": "Pitta",
+      "condition": "Kushtha",
+      "icd10_code": "L30",
+      "prescriptions": ["Kaishore Guggulu", "Mahamanjisthadi Kashaya", "Jatyadi Taila"],
+      "complaints": ["Skin disorder"],
+      "follow_up": "3 weeks"
+    }
+  },
+  {
+    "id": "eval_005",
+    "transcript": "45 saal ka purush, Kapha prakriti. 6 mahine se motapa badh raha hai. Weight 95 kg. Medohar Guggulu 2 goli subah shaam. Triphala Churna 5g raat ko garam pani se. Vigorous walking 45 minutes daily. No sweets. Follow up 1 month.",
+    "language": "hi",
+    "expected": {
+      "age": 45,
+      "sex": "Male",
+      "prakriti": "Kapha",
+      "condition": "Sthaulya",
+      "icd10_code": "E66",
+      "prescriptions": ["Medohar Guggulu", "Triphala Churna"],
+      "complaints": ["Obesity"],
+      "follow_up": "1 month"
+    }
+  },
+  {
+    "id": "eval_006",
+    "transcript": "62 year old male, Vata-Pitta prakriti. High blood pressure since 2 years. Currently on medication. BP is 160/100. Sarpagandha Vati 250mg twice daily. Arjuna Churna 3g with milk at bedtime. Reduce salt intake. Shavasana and Pranayama. Follow up 2 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 62,
+      "sex": "Male",
+      "prakriti": "Vata-Pitta",
+      "condition": "Raktachapa",
+      "icd10_code": "I10-I15",
+      "prescriptions": ["Sarpagandha Vati", "Arjuna Churna"],
+      "complaints": ["Hypertension"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_007",
+    "transcript": "40 saal ki mahila, Pitta prakriti. 1 hafte se bukhar hai, 101 degree. Body pain aur weakness. Mahasudarshan Churna 3g subah shaam. Guduchi Kashaya 15ml twice daily. Rest advised. Light diet. Follow up 5 din.",
+    "language": "hi",
+    "expected": {
+      "age": 40,
+      "sex": "Female",
+      "prakriti": "Pitta",
+      "condition": "Jwara",
+      "icd10_code": "R50",
+      "prescriptions": ["Mahasudarshan Churna", "Guduchi Kashaya"],
+      "complaints": ["Fever"],
+      "follow_up": "5 days"
+    }
+  },
+  {
+    "id": "eval_008",
+    "transcript": "30 year old male with Kapha prakriti. Chronic cough with phlegm since 3 weeks. Sitopaladi Churna 3g three times daily with honey. Kantakari Avaleha 5g twice daily. Steam inhalation recommended. Avoid cold drinks and dairy. 2 week follow up.",
+    "language": "en",
+    "expected": {
+      "age": 30,
+      "sex": "Male",
+      "prakriti": "Kapha",
+      "condition": "Kasa",
+      "icd10_code": "R05",
+      "prescriptions": ["Sitopaladi Churna", "Kantakari Avaleha"],
+      "complaints": ["Cough"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_009",
+    "transcript": "55 saal ka male, Vata prakriti. Peshab mein jalan aur pathri ki shikayat. Kidney stone 6mm. Chandraprabha Vati 2 goli subah shaam. Punarnavarishta 15ml after food. Increase water intake. Follow up 1 month.",
+    "language": "hi",
+    "expected": {
+      "age": 55,
+      "sex": "Male",
+      "prakriti": "Vata",
+      "condition": "Ashmari",
+      "icd10_code": "N20",
+      "prescriptions": ["Chandraprabha Vati", "Punarnavarishta"],
+      "complaints": ["Kidney stone"],
+      "follow_up": "1 month"
+    }
+  },
+  {
+    "id": "eval_010",
+    "transcript": "38 year old female, Pitta-Kapha prakriti. Acidity and gas since 2 months. Aggravated by spicy food. Avipattikar Churna 3g before meals. Shatavari Churna 3g with milk. Follow up 3 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 38,
+      "sex": "Female",
+      "prakriti": "Pitta-Kapha",
+      "condition": "Amlapitta",
+      "icd10_code": "K21",
+      "prescriptions": ["Avipattikar Churna", "Shatavari Churna"],
+      "complaints": ["Burning sensation in chest"],
+      "follow_up": "3 weeks"
+    }
+  },
+  {
+    "id": "eval_011",
+    "transcript": "70 saal ki mahila. Vata-Kapha prakriti. Joint pain in both knees for 1 year. Difficulty walking. Maharasnadi Kashaya 15ml subah shaam. Dhanvantara Taila for external application on knees. Gentle Pranayama. Follow up 2 weeks.",
+    "language": "hi",
+    "expected": {
+      "age": 70,
+      "sex": "Female",
+      "prakriti": "Vata-Kapha",
+      "condition": "Sandhivata",
+      "icd10_code": "M15-M19",
+      "prescriptions": ["Maharasnadi Kashaya", "Dhanvantara Taila"],
+      "complaints": ["Joint pain"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_012",
+    "transcript": "25 year old male, Pitta prakriti. Piles problem since 6 months. Bleeding during motion. Arshakuthar Rasa 2 tablets twice daily. Abhayarishta 15ml after food. Increase fiber in diet. Sitz bath with lukewarm water. Follow up 3 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 25,
+      "sex": "Male",
+      "prakriti": "Pitta",
+      "condition": "Arsha",
+      "icd10_code": "K64",
+      "prescriptions": ["Arshakuthar Rasa", "Abhayarishta"],
+      "complaints": ["Hemorrhoids"],
+      "follow_up": "3 weeks"
+    }
+  },
+  {
+    "id": "eval_013",
+    "transcript": "48 saal ka purush. Kapha prakriti. Sugar ki bimari hai 5 saal se. HbA1c 8.2. Nishamalaki Churna 3g subah shaam. Chandraprabha Vati 2 goli. Walk daily 30 min. No rice no sweets. Follow up 1 mahina.",
+    "language": "hi",
+    "expected": {
+      "age": 48,
+      "sex": "Male",
+      "prakriti": "Kapha",
+      "condition": "Prameha",
+      "icd10_code": "E11",
+      "prescriptions": ["Nishamalaki Churna", "Chandraprabha Vati"],
+      "complaints": ["Diabetes"],
+      "follow_up": "1 month"
+    }
+  },
+  {
+    "id": "eval_014",
+    "transcript": "33 year old female with Vata prakriti. Chronic constipation since 1 month. Hard stools. Bloating. Triphala Churna 5g at bedtime with warm water. Eranda Taila 10ml once weekly at bedtime. Increase water intake. Pawanmuktasana daily. Follow up 2 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 33,
+      "sex": "Female",
+      "prakriti": "Vata",
+      "condition": "Vibandha",
+      "icd10_code": "K59.0",
+      "prescriptions": ["Triphala Churna", "Eranda Taila"],
+      "complaints": ["Constipation"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_015",
+    "transcript": "42 saal ka male. Sama prakriti. Headache since 10 din. Stress related. Brahmi Vati 2 goli subah shaam. Ashwagandha Churna 3g raat ko doodh ke saath. Pranayama daily. Follow up 2 hafte.",
+    "language": "hi",
+    "expected": {
+      "age": 42,
+      "sex": "Male",
+      "prakriti": "Sama",
+      "condition": "Shirahshula",
+      "icd10_code": "R51",
+      "prescriptions": ["Brahmi Vati", "Ashwagandha Churna"],
+      "complaints": ["Headache"],
+      "follow_up": "2 weeks"
+    }
+  },
+  {
+    "id": "eval_016",
+    "transcript": "50 year old female, Pitta prakriti. Eczema on hands since 2 months. Itching and redness. Kaishore Guggulu 2 tab twice daily. Haridrakhand 3g with warm water. Apply Jatyadi Ghrita externally. Avoid sour food. Follow up 1 month.",
+    "language": "en",
+    "expected": {
+      "age": 50,
+      "sex": "Female",
+      "prakriti": "Pitta",
+      "condition": "Vicharchika",
+      "icd10_code": "L30.9",
+      "prescriptions": ["Kaishore Guggulu", "Haridrakhand", "Jatyadi Ghrita"],
+      "complaints": ["Skin disorder"],
+      "follow_up": "1 month"
+    }
+  },
+  {
+    "id": "eval_017",
+    "transcript": "22 saal ki mahila. Pitta-Kapha prakriti. Nazla zukam 1 hafte se. Naak bahna aur chheenk. Tribhuvankirti Rasa 1 goli teen baar. Sitopaladi Churna shahad ke saath. Garam pani piyen. Follow up 1 hafte.",
+    "language": "hi",
+    "expected": {
+      "age": 22,
+      "sex": "Female",
+      "prakriti": "Pitta-Kapha",
+      "condition": "Pratishyaya",
+      "icd10_code": "J31",
+      "prescriptions": ["Tribhuvankirti Rasa", "Sitopaladi Churna"],
+      "complaints": ["Rhinitis"],
+      "follow_up": "1 week"
+    }
+  },
+  {
+    "id": "eval_018",
+    "transcript": "65 year old male with Vata prakriti. Chronic joint pain and stiffness in knees and lower back for 2 years. Morning stiffness lasting 1 hour. Yogaraja Guggulu 2 tab twice daily. Bala Taila for external massage. Gentle stretching. Follow up 1 month.",
+    "language": "en",
+    "expected": {
+      "age": 65,
+      "sex": "Male",
+      "prakriti": "Vata",
+      "condition": "Sandhivata",
+      "icd10_code": "M15-M19",
+      "prescriptions": ["Yogaraja Guggulu", "Bala Taila"],
+      "complaints": ["Joint pain"],
+      "follow_up": "1 month"
+    }
+  },
+  {
+    "id": "eval_019",
+    "transcript": "36 saal ki mahila. Kapha prakriti. Khansi 2 hafte se. Balgam wali khansi. Vasavaleha 5g subah shaam. Talisadi Churna shahad ke saath teen baar. Steam inhalation. Follow up 10 din.",
+    "language": "hi",
+    "expected": {
+      "age": 36,
+      "sex": "Female",
+      "prakriti": "Kapha",
+      "condition": "Kasa",
+      "icd10_code": "R05",
+      "prescriptions": ["Vasavaleha", "Talisadi Churna"],
+      "complaints": ["Cough"],
+      "follow_up": "10 days"
+    }
+  },
+  {
+    "id": "eval_020",
+    "transcript": "44 year old male, Pitta prakriti. Hyperacidity since 1 month. Burning in stomach after meals. Avipattikar Churna 5g before lunch and dinner. Prawal Pishti 250mg twice daily with honey. Avoid tea coffee spicy food. Sheetali Pranayama. Follow up 3 weeks.",
+    "language": "en",
+    "expected": {
+      "age": 44,
+      "sex": "Male",
+      "prakriti": "Pitta",
+      "condition": "Amlapitta",
+      "icd10_code": "K21",
+      "prescriptions": ["Avipattikar Churna", "Prawal Pishti"],
+      "complaints": ["Burning sensation in chest"],
+      "follow_up": "3 weeks"
+    }
+  }
+]

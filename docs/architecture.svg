@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760">
+  <rect width="1280" height="760" fill="#f8fbff"/>
+  <text x="40" y="45" font-family="Arial" font-size="30" fill="#000080" font-weight="bold">AyurYukti Architecture</text>
+
+  <rect x="60" y="90" width="250" height="90" rx="10" fill="#fff" stroke="#1f4b99"/>
+  <text x="85" y="130" font-family="Arial" font-size="18" fill="#1f4b99">Doctor + Microphone</text>
+
+  <rect x="370" y="70" width="320" height="110" rx="10" fill="#fff" stroke="#ff9933" stroke-width="2"/>
+  <text x="395" y="120" font-family="Arial" font-size="20" fill="#b35a00" font-weight="bold">VakSetu</text>
+  <text x="395" y="146" font-family="Arial" font-size="15" fill="#444">ASR + Medical NER + Code Mapping</text>
+
+  <rect x="750" y="70" width="300" height="110" rx="10" fill="#fff" stroke="#138808" stroke-width="2"/>
+  <text x="780" y="120" font-family="Arial" font-size="20" fill="#0d6a06" font-weight="bold">AHMIS-Compatible EHR</text>
+
+  <rect x="370" y="230" width="320" height="110" rx="10" fill="#fff" stroke="#138808" stroke-width="2"/>
+  <text x="395" y="278" font-family="Arial" font-size="20" fill="#0d6a06" font-weight="bold">PrakritiMitra</text>
+  <text x="395" y="302" font-family="Arial" font-size="15" fill="#444">KG + Prakriti + Outcome Signals</text>
+
+  <rect x="750" y="230" width="300" height="110" rx="10" fill="#fff" stroke="#1f4b99" stroke-width="2"/>
+  <text x="785" y="278" font-family="Arial" font-size="20" fill="#1f4b99" font-weight="bold">Doctor Decision Support</text>
+
+  <rect x="70" y="390" width="300" height="120" rx="10" fill="#fff" stroke="#1f4b99"/>
+  <text x="92" y="435" font-family="Arial" font-size="20" fill="#1f4b99" font-weight="bold">AHMIS / Visit Data</text>
+
+  <rect x="430" y="380" width="300" height="130" rx="10" fill="#fff" stroke="#ff9933" stroke-width="2"/>
+  <text x="460" y="430" font-family="Arial" font-size="20" fill="#b35a00" font-weight="bold">RogaRadar</text>
+  <text x="460" y="454" font-family="Arial" font-size="15" fill="#444">Baseline + Anomaly + Geo Clustering</text>
+
+  <rect x="790" y="390" width="300" height="120" rx="10" fill="#fff" stroke="#d14"/>
+  <text x="842" y="435" font-family="Arial" font-size="20" fill="#aa1b1b" font-weight="bold">Health Alerts</text>
+
+  <rect x="430" y="560" width="300" height="120" rx="10" fill="#fff" stroke="#138808" stroke-width="2"/>
+  <text x="455" y="605" font-family="Arial" font-size="20" fill="#0d6a06" font-weight="bold">YuktiShaala Learning</text>
+  <text x="455" y="630" font-family="Arial" font-size="15" fill="#444">Outcome Tracker + Contextual Bandit</text>
+
+  <rect x="790" y="560" width="300" height="120" rx="10" fill="#fff" stroke="#1f4b99"/>
+  <text x="818" y="607" font-family="Arial" font-size="18" fill="#1f4b99" font-weight="bold">Improved Recommendations</text>
+
+  <line x1="310" y1="135" x2="370" y2="125" stroke="#333" stroke-width="2"/>
+  <line x1="690" y1="125" x2="750" y2="125" stroke="#333" stroke-width="2"/>
+  <line x1="900" y1="180" x2="900" y2="230" stroke="#333" stroke-width="2"/>
+  <line x1="690" y1="285" x2="750" y2="285" stroke="#333" stroke-width="2"/>
+  <line x1="370" y1="285" x2="370" y2="440" stroke="#333" stroke-width="2"/>
+  <line x1="370" y1="440" x2="430" y2="440" stroke="#333" stroke-width="2"/>
+  <line x1="730" y1="440" x2="790" y2="440" stroke="#333" stroke-width="2"/>
+  <line x1="940" y1="510" x2="940" y2="560" stroke="#333" stroke-width="2"/>
+  <line x1="730" y1="620" x2="790" y2="620" stroke="#333" stroke-width="2"/>
+
+  <rect x="1050" y="70" width="200" height="250" rx="10" fill="#fff" stroke="#999"/>
+  <text x="1070" y="102" font-family="Arial" font-size="17" fill="#444" font-weight="bold">Infrastructure</text>
+  <text x="1070" y="132" font-family="Arial" font-size="14" fill="#444">• Bhashini</text>
+  <text x="1070" y="156" font-family="Arial" font-size="14" fill="#444">• Ollama</text>
+  <text x="1070" y="180" font-family="Arial" font-size="14" fill="#444">• Neo4j</text>
+  <text x="1070" y="204" font-family="Arial" font-size="14" fill="#444">• PostgreSQL</text>
+  <text x="1070" y="228" font-family="Arial" font-size="14" fill="#444">• Qdrant</text>
+  <text x="1070" y="252" font-family="Arial" font-size="14" fill="#444">• Docker</text>
+</svg>

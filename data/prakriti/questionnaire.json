@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "Q01",
+    "category": "body_frame",
+    "text_en": "How is your body build generally? (Assessment 1)",
+    "text_hi": "Aapka sharirik sanrachna aam taur par kaisi hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "category": "skin",
+    "text_en": "How does your skin usually feel? (Assessment 1)",
+    "text_hi": "Aapki twacha aam taur par kaisi mehsoos hoti hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "category": "hair",
+    "text_en": "How would you describe your hair texture? (Assessment 1)",
+    "text_hi": "Aap apne baalon ki prakriti kaise batayenge? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "category": "appetite",
+    "text_en": "How regular is your appetite? (Assessment 1)",
+    "text_hi": "Aapki bhook kitni niyamit hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q05",
+    "category": "digestion",
+    "text_en": "How comfortable is your digestion? (Assessment 1)",
+    "text_hi": "Aapka pachan kitna suvidhajanak hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q06",
+    "category": "sleep",
+    "text_en": "How do you usually sleep? (Assessment 1)",
+    "text_hi": "Aap aam taur par kaise sote hain? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q07",
+    "category": "temperament",
+    "text_en": "How do you react to stress? (Assessment 1)",
+    "text_hi": "Aap tanav par kaise pratikriya dete hain? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q08",
+    "category": "activity",
+    "text_en": "How is your daytime energy? (Assessment 1)",
+    "text_hi": "Din bhar aapki urja kaisi rehti hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q09",
+    "category": "elimination",
+    "text_en": "How regular are bowel movements? (Assessment 1)",
+    "text_hi": "Mala pravritti kitni niyamit hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "category": "voice",
+    "text_en": "How is your natural speaking style? (Assessment 1)",
+    "text_hi": "Aapki prakritik bolne ki shaili kaisi hai? (Mulyankan 1)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q11",
+    "category": "body_frame",
+    "text_en": "How is your body build generally? (Assessment 2)",
+    "text_hi": "Aapka sharirik sanrachna aam taur par kaisi hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q12",
+    "category": "skin",
+    "text_en": "How does your skin usually feel? (Assessment 2)",
+    "text_hi": "Aapki twacha aam taur par kaisi mehsoos hoti hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q13",
+    "category": "hair",
+    "text_en": "How would you describe your hair texture? (Assessment 2)",
+    "text_hi": "Aap apne baalon ki prakriti kaise batayenge? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q14",
+    "category": "appetite",
+    "text_en": "How regular is your appetite? (Assessment 2)",
+    "text_hi": "Aapki bhook kitni niyamit hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q15",
+    "category": "digestion",
+    "text_en": "How comfortable is your digestion? (Assessment 2)",
+    "text_hi": "Aapka pachan kitna suvidhajanak hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q16",
+    "category": "sleep",
+    "text_en": "How do you usually sleep? (Assessment 2)",
+    "text_hi": "Aap aam taur par kaise sote hain? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q17",
+    "category": "temperament",
+    "text_en": "How do you react to stress? (Assessment 2)",
+    "text_hi": "Aap tanav par kaise pratikriya dete hain? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q18",
+    "category": "activity",
+    "text_en": "How is your daytime energy? (Assessment 2)",
+    "text_hi": "Din bhar aapki urja kaisi rehti hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q19",
+    "category": "elimination",
+    "text_en": "How regular are bowel movements? (Assessment 2)",
+    "text_hi": "Mala pravritti kitni niyamit hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q20",
+    "category": "voice",
+    "text_en": "How is your natural speaking style? (Assessment 2)",
+    "text_hi": "Aapki prakritik bolne ki shaili kaisi hai? (Mulyankan 2)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q21",
+    "category": "body_frame",
+    "text_en": "How is your body build generally? (Assessment 3)",
+    "text_hi": "Aapka sharirik sanrachna aam taur par kaisi hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q22",
+    "category": "skin",
+    "text_en": "How does your skin usually feel? (Assessment 3)",
+    "text_hi": "Aapki twacha aam taur par kaisi mehsoos hoti hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q23",
+    "category": "hair",
+    "text_en": "How would you describe your hair texture? (Assessment 3)",
+    "text_hi": "Aap apne baalon ki prakriti kaise batayenge? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q24",
+    "category": "appetite",
+    "text_en": "How regular is your appetite? (Assessment 3)",
+    "text_hi": "Aapki bhook kitni niyamit hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q25",
+    "category": "digestion",
+    "text_en": "How comfortable is your digestion? (Assessment 3)",
+    "text_hi": "Aapka pachan kitna suvidhajanak hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q26",
+    "category": "sleep",
+    "text_en": "How do you usually sleep? (Assessment 3)",
+    "text_hi": "Aap aam taur par kaise sote hain? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q27",
+    "category": "temperament",
+    "text_en": "How do you react to stress? (Assessment 3)",
+    "text_hi": "Aap tanav par kaise pratikriya dete hain? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q28",
+    "category": "activity",
+    "text_en": "How is your daytime energy? (Assessment 3)",
+    "text_hi": "Din bhar aapki urja kaisi rehti hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q29",
+    "category": "elimination",
+    "text_en": "How regular are bowel movements? (Assessment 3)",
+    "text_hi": "Mala pravritti kitni niyamit hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "Q30",
+    "category": "voice",
+    "text_en": "How is your natural speaking style? (Assessment 3)",
+    "text_hi": "Aapki prakritik bolne ki shaili kaisi hai? (Mulyankan 3)",
+    "options": [
+      {
+        "label": "Very light / irregular",
+        "scores": {
+          "vata": 2,
+          "pitta": 0,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Light-moderate",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Balanced",
+        "scores": {
+          "vata": 1,
+          "pitta": 1,
+          "kapha": 1
+        }
+      },
+      {
+        "label": "Moderate-intense",
+        "scores": {
+          "vata": 0,
+          "pitta": 2,
+          "kapha": 0
+        }
+      },
+      {
+        "label": "Heavy / slow / stable",
+        "scores": {
+          "vata": 0,
+          "pitta": 0,
+          "kapha": 2
+        }
+      }
+    ]
+  }
+]

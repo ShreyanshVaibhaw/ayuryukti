@@ -1,0 +1,503 @@
+{
+  "Vata": {
+    "general_principles": "Vata dosha is governed by air and space elements. Balance through warmth, regularity, grounding foods, and calming practices. Avoid cold, dry, and irregular habits.",
+    "dietary_guidelines": {
+      "favor": [
+        "Warm, cooked, and moist foods",
+        "Sweet, sour, and salty tastes",
+        "Ghee, sesame oil, and warming spices (ginger, cumin, cinnamon)",
+        "Soups, stews, and porridges",
+        "Root vegetables (sweet potato, beets, carrots)",
+        "Warm milk with turmeric or ashwagandha",
+        "Whole grains like rice and wheat",
+        "Ripe, sweet fruits (bananas, mangoes, grapes)"
+      ],
+      "avoid": [
+        "Cold, raw, and dry foods",
+        "Excess bitter, pungent, and astringent tastes",
+        "Raw salads and cold beverages",
+        "Dried fruits in excess",
+        "Beans and legumes (except mung dal)",
+        "Carbonated drinks and caffeine",
+        "Leftover or refrigerated food",
+        "Irregular meal timings"
+      ],
+      "meal_timing": "Eat at fixed times; never skip meals. Largest meal at noon. Light, warm dinner before 7 PM.",
+      "taste_preference": "Sweet, sour, and salty tastes pacify Vata. Avoid excess bitter, pungent, and astringent."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Gentle to moderate exercise: walking, swimming, tai chi. Avoid exhausting workouts.",
+      "sleep": "Early to bed (by 10 PM), 7-8 hours. Warm oil foot massage (Abhyanga) before sleep.",
+      "daily_routine": [
+        "Warm Abhyanga (sesame oil self-massage) every morning",
+        "Regular meal times — never skip breakfast",
+        "Warm bath or shower",
+        "Gentle Pranayama (Nadi Shodhana / Anulom Vilom)",
+        "Meditation for 10-15 minutes",
+        "Avoid excessive travel or stimulation",
+        "Stay warm and protected from wind and cold"
+      ],
+      "season_advice": {
+        "winter": "Increase warming foods, oil massage, stay indoors. Use heavier blankets.",
+        "summer": "Moderate activity, sweet and cooling fruits allowed.",
+        "monsoon": "Avoid cold, damp exposure. Prefer warm soups and ginger tea.",
+        "general": "Vata is most aggravated in autumn and early winter — take extra care during Sharad and Hemant ritu."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Pavanamuktasana", "purpose": "Relieves gas and bloating, calms Vata in abdomen"},
+      {"asana": "Balasana (Child's Pose)", "purpose": "Grounding and calming for nervous system"},
+      {"asana": "Viparita Karani (Legs up the Wall)", "purpose": "Reduces anxiety, grounds excess Vata"},
+      {"asana": "Vajrasana", "purpose": "Improves digestion, stabilizes Apana Vata"},
+      {"asana": "Shavasana (Extended)", "purpose": "Deep relaxation, counters Vata restlessness"},
+      {"asana": "Surya Namaskar (slow pace)", "purpose": "Gentle warming without overstimulation"}
+    ],
+    "aggravating_factors": {
+      "season": "Autumn and early winter (Sharad/Hemant ritu)",
+      "time": "2-6 AM and 2-6 PM (Vata kala)",
+      "diet": ["Cold foods", "Raw vegetables", "Excessive fasting", "Irregular meals"],
+      "activities": ["Excessive travel", "Overwork", "Sleep deprivation", "Loud noise", "Excessive screen time"]
+    },
+    "pacifying_factors": {
+      "season": "Late spring and summer with moderate warmth",
+      "time": "Consistent daily routine with fixed meal and sleep times",
+      "diet": ["Warm soups", "Ghee", "Sesame oil", "Sweet fruits"],
+      "activities": ["Oil massage (Abhyanga)", "Gentle yoga", "Warm baths", "Meditation", "Soothing music"]
+    },
+    "preferred_dosage_forms": ["Taila (oils)", "Ghrita (ghee preparations)", "Kashaya (decoctions)", "Churna with warm water"],
+    "condition_specific": {
+      "Vibandha": {
+        "extra_dietary": ["Triphala with warm water at bedtime", "Increase ghee and oil in diet", "Soaked raisins"],
+        "extra_lifestyle": ["Abdominal self-massage clockwise", "Warm water first thing in morning"]
+      },
+      "Sandhivata": {
+        "extra_dietary": ["Warm milk with turmeric and ginger", "Castor oil with warm milk weekly"],
+        "extra_lifestyle": ["Warm sesame oil joint massage daily", "Gentle joint mobilization exercises"]
+      }
+    }
+  },
+  "Pitta": {
+    "general_principles": "Pitta dosha is governed by fire and water elements. Balance through cooling foods, moderate activity, and avoiding excessive heat, competition, and spicy foods.",
+    "dietary_guidelines": {
+      "favor": [
+        "Cool or room-temperature foods",
+        "Sweet, bitter, and astringent tastes",
+        "Fresh fruits (melons, grapes, pomegranates, coconut)",
+        "Leafy greens and cooling vegetables (cucumber, zucchini, asparagus)",
+        "Milk, ghee, and coconut oil",
+        "Basmati rice and wheat",
+        "Coriander, fennel, mint, and cardamom",
+        "Rose water and aloe vera juice"
+      ],
+      "avoid": [
+        "Hot, spicy, and fermented foods",
+        "Excess sour, salty, and pungent tastes",
+        "Red meat, alcohol, and vinegar",
+        "Tomatoes, onions, garlic in excess",
+        "Fried and oily foods",
+        "Coffee and strong black tea",
+        "Pickles and fermented condiments",
+        "Eating when angry or stressed"
+      ],
+      "meal_timing": "Regular meals; largest meal at noon when Agni is strongest. Do not skip lunch. Light dinner by 7 PM.",
+      "taste_preference": "Sweet, bitter, and astringent tastes pacify Pitta. Minimize sour, salty, and pungent."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Moderate exercise in cool hours — morning or evening. Swimming is ideal. Avoid midday sun and competitive sports.",
+      "sleep": "Sleep by 10 PM. Cool bedroom. Sandalwood or rose on temples before sleep.",
+      "daily_routine": [
+        "Coconut oil or sunflower oil Abhyanga (cooling oils)",
+        "Avoid midday sun exposure (10 AM - 3 PM)",
+        "Sheetali or Sheetkari Pranayama for cooling",
+        "Moonlight walks in the evening",
+        "Wear light-colored, cotton clothing",
+        "Practice compassion meditation (Metta/Karuna)",
+        "Cool water wash for eyes (Netra Prakshalana)"
+      ],
+      "season_advice": {
+        "summer": "Critical season — maximize cooling foods, avoid sun. Sandalwood paste, moonlight walks.",
+        "winter": "Pitta is naturally calmer; moderate warming foods are acceptable.",
+        "monsoon": "Agni tends to be low; eat light, avoid heavy and fermented foods.",
+        "general": "Pitta is most aggravated in summer and late spring — take extra care during Grishma ritu."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Chandrasana (Moon Salutation)", "purpose": "Cooling alternative to Surya Namaskar"},
+      {"asana": "Ardha Matsyendrasana", "purpose": "Massages liver and digestive organs, releases Pitta heat"},
+      {"asana": "Sheetali Pranayama", "purpose": "Direct cooling breath, reduces body temperature"},
+      {"asana": "Bhujangasana (gentle)", "purpose": "Opens chest, releases stored emotional heat"},
+      {"asana": "Shavasana with guided cooling", "purpose": "Imagine moonlight cooling the body"},
+      {"asana": "Viparita Karani", "purpose": "Calms the nervous system, cools the head"}
+    ],
+    "aggravating_factors": {
+      "season": "Summer and late spring (Grishma ritu)",
+      "time": "10 AM-2 PM and 10 PM-2 AM (Pitta kala)",
+      "diet": ["Spicy foods", "Alcohol", "Fermented items", "Excess salt and sour"],
+      "activities": ["Intense competition", "Anger and frustration", "Midday sun exposure", "Overworking", "Hot baths"]
+    },
+    "pacifying_factors": {
+      "season": "Winter and cool autumn",
+      "time": "Moderate schedule without time pressure",
+      "diet": ["Coconut water", "Sweet fruits", "Milk", "Ghee", "Mint"],
+      "activities": ["Swimming", "Moonlight walks", "Nature time near water", "Creative arts", "Cooling pranayama"]
+    },
+    "preferred_dosage_forms": ["Ghrita (ghee preparations)", "Churna with cool water or milk", "Syrups (Asava/Arishta)", "Medicated ghee"],
+    "condition_specific": {
+      "Amlapitta": {
+        "extra_dietary": ["Shatavari milk", "Cold-infused fennel water", "Amla (Indian gooseberry) daily"],
+        "extra_lifestyle": ["Avoid fasting", "Do not eat spicy food at night", "Left-side sleeping after meals"]
+      },
+      "Raktapitta": {
+        "extra_dietary": ["Pomegranate juice", "Durva (Bermuda grass) juice", "Avoid all heating foods"],
+        "extra_lifestyle": ["Complete rest during acute phase", "Cool compress on forehead"]
+      }
+    }
+  },
+  "Kapha": {
+    "general_principles": "Kapha dosha is governed by earth and water elements. Balance through light, dry, and warm foods, vigorous exercise, and stimulating activities. Avoid heaviness, excess sleep, and cold damp conditions.",
+    "dietary_guidelines": {
+      "favor": [
+        "Light, warm, and dry foods",
+        "Pungent, bitter, and astringent tastes",
+        "Honey (unheated) as sweetener",
+        "Spices: black pepper, ginger, turmeric, mustard, cayenne",
+        "Light grains: barley, millet, buckwheat, corn",
+        "Steamed vegetables, leafy greens",
+        "Legumes: mung beans, lentils, chickpeas",
+        "Green tea, ginger tea, spiced herbal infusions"
+      ],
+      "avoid": [
+        "Heavy, oily, and sweet foods",
+        "Cold dairy products (ice cream, cold milk, cheese)",
+        "Wheat, white rice in excess",
+        "Fried foods and sweets",
+        "Excess salt and sour tastes",
+        "Bananas, avocados, and heavy fruits",
+        "Sleeping after meals",
+        "Excessive water intake (drink only when thirsty)"
+      ],
+      "meal_timing": "Two main meals (skip breakfast or keep very light). Largest meal at noon. No eating after sunset if possible.",
+      "taste_preference": "Pungent, bitter, and astringent tastes pacify Kapha. Minimize sweet, sour, and salty."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Vigorous daily exercise is essential — running, brisk walking, cycling, aerobics. Exercise in the morning for best effect.",
+      "sleep": "Rise before 6 AM (before Kapha time). Avoid daytime sleeping. 6-7 hours sufficient.",
+      "daily_routine": [
+        "Wake before sunrise (5-6 AM)",
+        "Dry powder massage (Udvartana) with herbal powders",
+        "Vigorous exercise or brisk walk in morning",
+        "Kapalabhati and Bhastrika Pranayama",
+        "Avoid daytime napping — stay active",
+        "Keep environment warm, dry, and bright",
+        "Engage in stimulating mental activities"
+      ],
+      "season_advice": {
+        "spring": "Critical season — Kapha accumulates. Fasting, dry massage, extra exercise recommended.",
+        "winter": "Avoid heavy foods; keep active despite cold weather.",
+        "monsoon": "Kapha aggravated by dampness — use dry, warm, spicy foods.",
+        "general": "Kapha is most aggravated in spring and late winter — take extra care during Vasant and Shishira ritu."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Surya Namaskar (vigorous pace)", "purpose": "Stimulates metabolism, counters Kapha sluggishness"},
+      {"asana": "Ustrasana (Camel Pose)", "purpose": "Opens chest, improves lung capacity"},
+      {"asana": "Kapalabhati Pranayama", "purpose": "Clears respiratory passages, energizes body"},
+      {"asana": "Dhanurasana (Bow Pose)", "purpose": "Stimulates abdominal organs, reduces heaviness"},
+      {"asana": "Navasana (Boat Pose)", "purpose": "Strengthens core, improves Agni"},
+      {"asana": "Simhasana (Lion Pose)", "purpose": "Clears throat congestion, energizing"}
+    ],
+    "aggravating_factors": {
+      "season": "Spring and late winter (Vasant/Shishira ritu)",
+      "time": "6-10 AM and 6-10 PM (Kapha kala)",
+      "diet": ["Sweet foods", "Dairy", "Cold beverages", "Heavy grains"],
+      "activities": ["Daytime sleeping", "Sedentary lifestyle", "Excess comfort", "Emotional eating"]
+    },
+    "pacifying_factors": {
+      "season": "Summer and dry autumn",
+      "time": "Active morning routine before 6 AM",
+      "diet": ["Ginger tea", "Honey with warm water", "Light soups", "Spiced foods"],
+      "activities": ["Vigorous exercise", "New challenges", "Social engagement", "Travel", "Dry massage (Udvartana)"]
+    },
+    "preferred_dosage_forms": ["Churna (dry powders)", "Guggulu (resin preparations)", "Vati (tablets)", "Lepa (pastes)"],
+    "condition_specific": {
+      "Sthaulya": {
+        "extra_dietary": ["Honey with warm water on empty stomach", "Barley water", "Avoid all sweets and fried foods"],
+        "extra_lifestyle": ["Morning jog or brisk walk 45 min", "Udvartana with Triphala powder"]
+      },
+      "Kasa": {
+        "extra_dietary": ["Tulsi-ginger-honey decoction", "Avoid cold drinks and dairy"],
+        "extra_lifestyle": ["Steam inhalation with eucalyptus", "Chest massage with mustard oil"]
+      }
+    }
+  },
+  "Vata-Pitta": {
+    "general_principles": "Vata-Pitta dual prakriti combines air, space, fire, and water. Balance through moderately warm but not overheating foods. Maintain regularity without rigidity. Manage both anxiety (Vata) and irritability (Pitta).",
+    "dietary_guidelines": {
+      "favor": [
+        "Warm but not hot foods",
+        "Sweet and mildly sour tastes",
+        "Ghee and olive oil in moderate amounts",
+        "Well-cooked grains: basmati rice, wheat, oats",
+        "Sweet fruits (mangoes, peaches, pears)",
+        "Mild spices: cumin, coriander, fennel, turmeric",
+        "Warm milk with cardamom",
+        "Steamed vegetables, mung dal"
+      ],
+      "avoid": [
+        "Extremely spicy or extremely cold foods",
+        "Raw foods in large quantities",
+        "Caffeine and alcohol",
+        "Excessive fasting or overeating",
+        "Very dry or very oily foods in excess",
+        "Fermented and pickled foods",
+        "Skipping meals (aggravates Vata)",
+        "Eating when agitated (aggravates Pitta)"
+      ],
+      "meal_timing": "Three regular meals with warm food. Lunch as the largest. Avoid late dinners.",
+      "taste_preference": "Favor sweet taste (pacifies both). Use moderate sour/salty (controls Vata without over-stimulating Pitta)."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Moderate exercise: yoga, swimming, walking. Avoid extremes — not too vigorous (Pitta), not too gentle (Vata stagnation).",
+      "sleep": "7-8 hours. Consistent bedtime by 10 PM. Warm (not hot) oil massage before sleep.",
+      "daily_routine": [
+        "Moderate-temperature Abhyanga with coconut-sesame oil blend",
+        "Regular schedule for meals, sleep, and work",
+        "Nadi Shodhana Pranayama — balances both doshas",
+        "Nature walks in moderate weather",
+        "Creative expression (art, music, writing)",
+        "Avoid overcommitting and burnout",
+        "10-15 min mindfulness meditation"
+      ],
+      "season_advice": {
+        "summer": "Focus on Pitta management: cooling foods, avoid midday sun.",
+        "winter": "Focus on Vata management: warming foods, oil massage, stay warm.",
+        "monsoon": "Balance both: warm, light, fresh foods. Avoid heavy and cold.",
+        "general": "Adjust emphasis seasonally — prioritize the dosha most aggravated by current season."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Surya Namaskar (moderate pace)", "purpose": "Balanced whole-body activation"},
+      {"asana": "Trikonasana", "purpose": "Stabilizing and opening — balances both doshas"},
+      {"asana": "Nadi Shodhana Pranayama", "purpose": "Harmonizes nervous system, balances Vata and Pitta"},
+      {"asana": "Paschimottanasana", "purpose": "Calming forward bend, cools Pitta while grounding Vata"},
+      {"asana": "Vrikshasana (Tree Pose)", "purpose": "Improves balance and focus"},
+      {"asana": "Shavasana", "purpose": "Deep rest and nervous system reset"}
+    ],
+    "aggravating_factors": {
+      "season": "Autumn (Vata) and summer (Pitta) are both challenging",
+      "time": "Irregular schedules, deadline pressure",
+      "diet": ["Skipping meals", "Very spicy food", "Caffeine", "Cold raw foods"],
+      "activities": ["Overwork and competition", "Excessive travel", "Sleep deprivation", "Emotional suppression"]
+    },
+    "pacifying_factors": {
+      "season": "Mild spring and early summer",
+      "time": "Regular, predictable daily routine",
+      "diet": ["Warm sweet foods", "Ghee", "Mild spices", "Fresh-cooked meals"],
+      "activities": ["Moderate yoga", "Creative hobbies", "Nature time", "Regular sleep", "Warm oil massage"]
+    },
+    "preferred_dosage_forms": ["Ghrita (ghee preparations)", "Kashaya with milk", "Churna with warm milk", "Medicated oils"]
+  },
+  "Pitta-Kapha": {
+    "general_principles": "Pitta-Kapha dual prakriti has strong metabolism (Pitta) with sturdy build (Kapha). Balance through moderately light and cooling diet. Needs regular vigorous exercise but must avoid overheating. Manage both heat and heaviness.",
+    "dietary_guidelines": {
+      "favor": [
+        "Light, warm foods with bitter and astringent tastes",
+        "Leafy greens and cruciferous vegetables",
+        "Light grains: barley, millet, quinoa",
+        "Mung dal and light legumes",
+        "Moderate spices: turmeric, coriander, fennel, cumin",
+        "Fresh fruits: apples, pears, berries, pomegranate",
+        "Green tea and herbal infusions",
+        "Small amounts of honey"
+      ],
+      "avoid": [
+        "Heavy, oily, and fried foods",
+        "Red meat and heavy dairy (cheese, cream)",
+        "Very spicy food (aggravates Pitta)",
+        "Excess sweets and cold desserts (aggravates Kapha)",
+        "Alcohol and fermented foods",
+        "Sour and salty in excess",
+        "Large portions and late-night eating",
+        "Cold drinks immediately after meals"
+      ],
+      "meal_timing": "Two to three moderate meals. Lunch is primary. Light dinner. Avoid snacking between meals.",
+      "taste_preference": "Bitter and astringent pacify both. Use moderate pungent (stimulates Kapha without over-heating Pitta)."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Regular vigorous exercise in cool hours — morning runs, swimming, cycling. Essential for Kapha but schedule in cool times for Pitta.",
+      "sleep": "6-7 hours. Rise early (before 6 AM). Avoid daytime sleeping.",
+      "daily_routine": [
+        "Early morning exercise routine (5:30-7:00 AM)",
+        "Light dry massage on Kapha days, cooling oil on Pitta days",
+        "Alternate between stimulating and cooling pranayama",
+        "Avoid afternoon lethargy — stay active",
+        "Evening walks near water bodies",
+        "Keep workspace organized and decluttered",
+        "Competitive sports in moderation (avoid excess intensity)"
+      ],
+      "season_advice": {
+        "summer": "Focus on Pitta: cooling foods, swimming, avoid midday sun.",
+        "spring": "Focus on Kapha: fasting, vigorous exercise, dry massage.",
+        "winter": "Both doshas benefit from moderate warmth and activity.",
+        "general": "Spring and summer require most attention — Kapha in spring, Pitta in summer."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Surya Namaskar (moderate-vigorous)", "purpose": "Builds heat to counter Kapha without excess Pitta"},
+      {"asana": "Navasana (Boat Pose)", "purpose": "Core strength, stimulates Agni"},
+      {"asana": "Ustrasana (Camel Pose)", "purpose": "Opens chest, improves respiration"},
+      {"asana": "Sheetali Pranayama", "purpose": "Cooling breath after vigorous practice"},
+      {"asana": "Matsyasana (Fish Pose)", "purpose": "Opens throat and chest, balances thyroid"},
+      {"asana": "Kapalabhati (moderate)", "purpose": "Clears Kapha congestion without overheating"}
+    ],
+    "aggravating_factors": {
+      "season": "Summer (Pitta) and spring (Kapha)",
+      "time": "Sedentary afternoons, heavy lunches",
+      "diet": ["Heavy, oily food", "Excess sweets", "Spicy food combined with rich meals"],
+      "activities": ["Sedentary lifestyle", "Competitive anger", "Overeating", "Sleeping after meals"]
+    },
+    "pacifying_factors": {
+      "season": "Cool autumn and mild winter",
+      "time": "Active mornings, moderate afternoons",
+      "diet": ["Light bitter greens", "Barley water", "Herbal teas", "Fresh seasonal fruits"],
+      "activities": ["Swimming", "Hiking", "Team sports", "Gardening", "Moderate-intensity yoga"]
+    },
+    "preferred_dosage_forms": ["Churna (powders)", "Guggulu (resin preparations)", "Vati (tablets)", "Light Kashaya"]
+  },
+  "Vata-Kapha": {
+    "general_principles": "Vata-Kapha dual prakriti alternates between lightness/dryness (Vata) and heaviness/dampness (Kapha). Balance through warm, light, and mildly spiced foods. Needs both grounding (for Vata) and stimulation (for Kapha). Regularity is key.",
+    "dietary_guidelines": {
+      "favor": [
+        "Warm, light, well-spiced foods",
+        "Pungent and mildly sweet tastes",
+        "Warm soups and stews with ginger and black pepper",
+        "Light grains: basmati rice (small portions), millet, quinoa",
+        "Well-cooked mung dal and split legumes",
+        "Warm spices: ginger, cinnamon, black pepper, turmeric, cumin",
+        "Honey as sweetener (in moderation)",
+        "Cooked seasonal vegetables"
+      ],
+      "avoid": [
+        "Cold, raw, and heavy foods",
+        "Cold dairy products and ice cream",
+        "Heavy grains in excess (wheat, sticky rice)",
+        "Excess sweets and fried foods",
+        "Cold drinks and icy beverages",
+        "Sleeping immediately after eating",
+        "Irregular meal patterns",
+        "Large, heavy meals"
+      ],
+      "meal_timing": "Three light meals with consistent timing. Warm breakfast. Moderate lunch. Light, early dinner.",
+      "taste_preference": "Pungent and warming tastes pacify both. Sweet in moderation (grounding without heaviness)."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Regular moderate-to-vigorous exercise — brisk walking, cycling, dance. Consistency matters more than intensity.",
+      "sleep": "7 hours. Fixed sleep-wake schedule. Avoid daytime napping. Warm bed, comfortable room.",
+      "daily_routine": [
+        "Warm sesame oil Abhyanga (counters Vata) followed by dry toweling (counters Kapha)",
+        "Morning exercise routine — consistent daily",
+        "Bhastrika and Nadi Shodhana Pranayama alternated",
+        "Stay warm but avoid excess humidity",
+        "Engage in mentally stimulating activities",
+        "Social connections to counter isolation tendencies",
+        "Warm herbal teas throughout the day"
+      ],
+      "season_advice": {
+        "winter": "Most challenging — both doshas aggravated. Extra warmth, exercise, spiced foods.",
+        "monsoon": "Dampness aggravates Kapha; cold wind aggravates Vata. Stay warm and dry.",
+        "summer": "Best season — warmth helps both doshas. Stay moderately active.",
+        "general": "Winter and monsoon are most challenging — maintain warmth, regularity, and spiced foods."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Surya Namaskar (steady pace)", "purpose": "Warming and activating without exhaustion"},
+      {"asana": "Utkatasana (Chair Pose)", "purpose": "Builds warmth and strength, counters both doshas"},
+      {"asana": "Setu Bandhasana (Bridge Pose)", "purpose": "Opens chest, stimulates circulation"},
+      {"asana": "Bhastrika Pranayama", "purpose": "Warming breath, clears Kapha while grounding Vata"},
+      {"asana": "Virabhadrasana I (Warrior I)", "purpose": "Grounding strength pose, builds confidence"},
+      {"asana": "Dhanurasana (Bow Pose)", "purpose": "Stimulates digestion and circulation"}
+    ],
+    "aggravating_factors": {
+      "season": "Late autumn, winter, and monsoon",
+      "time": "Cold, damp mornings; late evenings",
+      "diet": ["Cold food", "Heavy dairy", "Excess sweets", "Raw salads"],
+      "activities": ["Sedentary lifestyle", "Isolation", "Irregular schedule", "Cold damp environments"]
+    },
+    "pacifying_factors": {
+      "season": "Warm, dry summer and early autumn",
+      "time": "Active morning routine with warming practices",
+      "diet": ["Ginger tea", "Warm spiced foods", "Light soups", "Honey"],
+      "activities": ["Regular exercise", "Social engagement", "Warm oil massage", "Dance", "Singing"]
+    },
+    "preferred_dosage_forms": ["Churna with warm water and honey", "Guggulu", "Kashaya (warm decoctions)", "Medicated oils"]
+  },
+  "Sama": {
+    "general_principles": "Sama (Tridosha balanced) prakriti is the ideal constitution. Maintain balance through seasonal adjustment, moderate habits in all areas, and varied diet. The goal is prevention and rhythm rather than correction.",
+    "dietary_guidelines": {
+      "favor": [
+        "Seasonal and locally grown fresh foods",
+        "Balanced use of all six tastes (Shadrasa)",
+        "Freshly cooked meals with moderate spicing",
+        "Whole grains, fresh vegetables, and seasonal fruits",
+        "Ghee, milk, and buttermilk in moderation",
+        "Nuts and seeds in small amounts",
+        "Seasonal herbal teas",
+        "Sattvic (pure, clean) foods"
+      ],
+      "avoid": [
+        "Excess of any single taste",
+        "Processed and packaged foods",
+        "Leftovers and stale food",
+        "Overeating or undereating",
+        "Extreme diets or fasting without reason",
+        "Food combinations warned against in Ayurveda (Viruddha Ahara)",
+        "Eating while distracted",
+        "Artificial flavors and preservatives"
+      ],
+      "meal_timing": "Three balanced meals at consistent times. Eat mindfully. Follow seasonal meal patterns.",
+      "taste_preference": "Use all six tastes in balance. Adjust emphasis based on current season and any temporary imbalance."
+    },
+    "lifestyle_guidelines": {
+      "exercise": "Varied exercise regimen — yoga, walking, swimming, sports. Adjust intensity with seasons.",
+      "sleep": "7-8 hours. Natural sleep-wake cycle aligned with sunrise/sunset.",
+      "daily_routine": [
+        "Dinacharya (traditional daily routine) as described in classical texts",
+        "Oil massage 2-3 times per week (alternate oils by season)",
+        "Pranayama practice — alternate between warming and cooling based on season",
+        "Regular meditation practice",
+        "Seasonal cleansing (Ritucharya transitions)",
+        "Maintain work-life balance",
+        "Engage in creative and intellectual pursuits"
+      ],
+      "season_advice": {
+        "spring": "Lighter foods, more exercise, Kapalabhati. Reduce sweet and oily.",
+        "summer": "Cooling foods, moderate activity, Sheetali Pranayama. Increase sweet and bitter.",
+        "monsoon": "Light, warm, easy-to-digest foods. Ginger tea. Avoid heavy meals.",
+        "autumn": "Warming and grounding. Moderate sweet and sour. Oil massage.",
+        "winter": "Nourishing, warming foods. Sesame oil Abhyanga. More sleep allowed.",
+        "general": "The key for Sama prakriti is Ritucharya — adjusting lifestyle with each season to maintain balance."
+      }
+    },
+    "yoga_recommendations": [
+      {"asana": "Surya Namaskar (12 rounds)", "purpose": "Complete body-mind activation"},
+      {"asana": "Trikonasana", "purpose": "Side-body opening and balance"},
+      {"asana": "Padmasana", "purpose": "Meditation posture for mental equilibrium"},
+      {"asana": "Sarvangasana", "purpose": "Thyroid and hormonal balance"},
+      {"asana": "Pranayama (seasonal rotation)", "purpose": "Rotate between Nadi Shodhana, Sheetali, Bhastrika by season"},
+      {"asana": "Shavasana", "purpose": "Deep relaxation and integration"}
+    ],
+    "aggravating_factors": {
+      "season": "Season transitions if not managed through Ritucharya",
+      "time": "Irregular lifestyle, jet lag, shift work",
+      "diet": ["Extreme diets", "Processed foods", "Overeating"],
+      "activities": ["Extreme stress", "Ignoring body signals", "Sedentary or overexercise"]
+    },
+    "pacifying_factors": {
+      "season": "Well-managed seasonal transitions with Ritucharya",
+      "time": "Regular natural rhythm aligned with sun cycle",
+      "diet": ["Fresh seasonal foods", "Balanced six-taste meals", "Mindful eating"],
+      "activities": ["Regular yoga and meditation", "Nature connection", "Balanced social life", "Creative pursuits"]
+    },
+    "preferred_dosage_forms": ["Seasonal formulations", "Rasayana (rejuvenation) preparations", "Churna", "Lehya (confections)"]
+  }
+}

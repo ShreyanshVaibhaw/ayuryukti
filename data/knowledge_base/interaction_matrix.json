@@ -1,0 +1,107 @@
+{
+  "interactions": [
+    {
+      "formulation_a": "Abhayarishta",
+      "formulation_b": "Draksharishta",
+      "severity": "LOW",
+      "description": "Both are Arishta preparations; concurrent use may increase alcohol content intake.",
+      "recommendation": "Space doses at least 2 hours apart."
+    },
+    {
+      "formulation_a": "Yogaraja Guggulu",
+      "formulation_b": "Simhanada Guggulu",
+      "severity": "MODERATE",
+      "description": "Both contain Guggulu resin; combined use may cause excessive purgation.",
+      "recommendation": "Do not prescribe together. Choose one based on primary dosha involvement."
+    },
+    {
+      "formulation_a": "Triphala Churna",
+      "formulation_b": "Abhayarishta",
+      "severity": "LOW",
+      "description": "Both contain Haritaki. Combined use increases laxative effect.",
+      "recommendation": "Reduce dosage of one if used together. Monitor bowel movements."
+    },
+    {
+      "formulation_a": "Arogyavardhini Vati",
+      "formulation_b": "Kamdudha Rasa",
+      "severity": "MODERATE",
+      "description": "Arogyavardhini contains metallic bhasma; Kamdudha also has mineral content. Cumulative heavy metal exposure risk.",
+      "recommendation": "Limit duration to 2 weeks when co-prescribed. Monitor liver function."
+    },
+    {
+      "formulation_a": "Chandraprabha Vati",
+      "formulation_b": "Punarnavarishta",
+      "severity": "LOW",
+      "description": "Both have diuretic action. May cause excessive fluid loss.",
+      "recommendation": "Ensure adequate hydration. Monitor electrolytes in elderly patients."
+    },
+    {
+      "formulation_a": "Kutajarishta",
+      "formulation_b": "Triphala Churna",
+      "severity": "MODERATE",
+      "description": "Kutajarishta is anti-diarrheal while Triphala is laxative. Opposing actions.",
+      "recommendation": "Avoid concurrent use. Prescribe sequentially based on symptom phase."
+    },
+    {
+      "formulation_a": "Ashwagandha Churna",
+      "formulation_b": "Brahmi Vati",
+      "severity": "LOW",
+      "description": "Both are Rasayana (rejuvenation) formulations. Generally safe combination.",
+      "recommendation": "Safe to co-prescribe. Monitor for excessive sedation."
+    },
+    {
+      "formulation_a": "Mahasudarshan Churna",
+      "formulation_b": "Sudarshan Ghanvati",
+      "severity": "LOW",
+      "description": "Same formulation in different dosage forms. Risk of double dosing.",
+      "recommendation": "Prescribe only one form. Do not combine."
+    },
+    {
+      "formulation_a": "Kaishore Guggulu",
+      "formulation_b": "Yogaraja Guggulu",
+      "severity": "LOW",
+      "description": "Both are Guggulu preparations with overlapping ingredients.",
+      "recommendation": "Choose one based on primary indication. Kaishore for Pitta-Rakta, Yogaraja for Vata."
+    },
+    {
+      "formulation_a": "Avipattikar Churna",
+      "formulation_b": "Lavanbhaskar Churna",
+      "severity": "LOW",
+      "description": "Avipattikar reduces acidity while Lavanbhaskar increases digestive fire. May partially counteract.",
+      "recommendation": "Use Avipattikar for hyperacidity (Amlapitta) and Lavanbhaskar for low Agni. Avoid concurrent use."
+    }
+  ],
+  "age_restrictions": {
+    "arogyavardhini vati": {
+      "min_age": 12,
+      "max_age": 70,
+      "pediatric_alternative": "Use Kumaryasava or other non-mineral alternatives for children."
+    },
+    "yogaraja guggulu": {
+      "min_age": 8,
+      "max_age": 80,
+      "pediatric_alternative": "Use Rasnadi Kashaya for children under 8."
+    },
+    "chandraprabha vati": {
+      "min_age": 10,
+      "max_age": 100,
+      "pediatric_alternative": "Use Punarnava Mandur for children under 10."
+    },
+    "kamdudha rasa": {
+      "min_age": 6,
+      "max_age": 75,
+      "pediatric_alternative": "Use Shatavari Ghrita for children under 6."
+    }
+  },
+  "pregnancy_warnings": [
+    "Arogyavardhini Vati",
+    "Yogaraja Guggulu",
+    "Simhanada Guggulu",
+    "Kaishore Guggulu",
+    "Triphala Churna",
+    "Kutajarishta",
+    "Mahasudarshan Churna",
+    "Chandraprabha Vati",
+    "Kaishor Guggulu"
+  ]
+}

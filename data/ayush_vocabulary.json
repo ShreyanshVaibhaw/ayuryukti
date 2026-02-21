@@ -1,0 +1,4956 @@
+[
+  {
+    "term": "Vata",
+    "variants": [
+      "vata"
+    ],
+    "type": "dosha",
+    "hindi": "Vata"
+  },
+  {
+    "term": "Pitta",
+    "variants": [
+      "pitta"
+    ],
+    "type": "dosha",
+    "hindi": "Pitta"
+  },
+  {
+    "term": "Kapha",
+    "variants": [
+      "kapha"
+    ],
+    "type": "dosha",
+    "hindi": "Kapha"
+  },
+  {
+    "term": "Vata-Pitta",
+    "variants": [
+      "vata-pitta"
+    ],
+    "type": "prakriti",
+    "hindi": "Vata-Pitta"
+  },
+  {
+    "term": "Pitta-Kapha",
+    "variants": [
+      "pitta-kapha"
+    ],
+    "type": "prakriti",
+    "hindi": "Pitta-Kapha"
+  },
+  {
+    "term": "Vata-Kapha",
+    "variants": [
+      "vata-kapha"
+    ],
+    "type": "prakriti",
+    "hindi": "Vata-Kapha"
+  },
+  {
+    "term": "Sama",
+    "variants": [
+      "sama"
+    ],
+    "type": "prakriti",
+    "hindi": "Sama"
+  },
+  {
+    "term": "Vibandha",
+    "variants": [
+      "Constipation",
+      "vibandha"
+    ],
+    "type": "condition",
+    "hindi": "Vibandha"
+  },
+  {
+    "term": "Amlapitta",
+    "variants": [
+      "Hyperacidity/GERD",
+      "amlapitta"
+    ],
+    "type": "condition",
+    "hindi": "Amlapitta"
+  },
+  {
+    "term": "Atisara",
+    "variants": [
+      "Diarrhea",
+      "atisara"
+    ],
+    "type": "condition",
+    "hindi": "Atisara"
+  },
+  {
+    "term": "Grahani",
+    "variants": [
+      "Malabsorption syndrome",
+      "grahani"
+    ],
+    "type": "condition",
+    "hindi": "Grahani"
+  },
+  {
+    "term": "Vataja Vibandha",
+    "variants": [
+      "Vata-dominant constipation",
+      "vataja vibandha"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Vibandha"
+  },
+  {
+    "term": "Vataja Amlapitta",
+    "variants": [
+      "Vata-dominant hyperacidity/gerd",
+      "vataja amlapitta"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Amlapitta"
+  },
+  {
+    "term": "Vataja Atisara",
+    "variants": [
+      "Vata-dominant diarrhea",
+      "vataja atisara"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Atisara"
+  },
+  {
+    "term": "Vataja Grahani",
+    "variants": [
+      "Vata-dominant malabsorption syndrome",
+      "vataja grahani"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Grahani"
+  },
+  {
+    "term": "Pittaja Vibandha",
+    "variants": [
+      "Pitta-dominant constipation",
+      "pittaja vibandha"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Vibandha"
+  },
+  {
+    "term": "Pittaja Amlapitta",
+    "variants": [
+      "Pitta-dominant hyperacidity/gerd",
+      "pittaja amlapitta"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Amlapitta"
+  },
+  {
+    "term": "Pittaja Atisara",
+    "variants": [
+      "Pitta-dominant diarrhea",
+      "pittaja atisara"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Atisara"
+  },
+  {
+    "term": "Pittaja Grahani",
+    "variants": [
+      "Pitta-dominant malabsorption syndrome",
+      "pittaja grahani"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Grahani"
+  },
+  {
+    "term": "Kaphaja Vibandha",
+    "variants": [
+      "Kapha-dominant constipation",
+      "kaphaja vibandha"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Vibandha"
+  },
+  {
+    "term": "Kaphaja Amlapitta",
+    "variants": [
+      "Kapha-dominant hyperacidity/gerd",
+      "kaphaja amlapitta"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Amlapitta"
+  },
+  {
+    "term": "Kaphaja Atisara",
+    "variants": [
+      "Kapha-dominant diarrhea",
+      "kaphaja atisara"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Atisara"
+  },
+  {
+    "term": "Kaphaja Grahani",
+    "variants": [
+      "Kapha-dominant malabsorption syndrome",
+      "kaphaja grahani"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Grahani"
+  },
+  {
+    "term": "Sannipataja Vibandha",
+    "variants": [
+      "Mixed-dosha constipation",
+      "sannipataja vibandha"
+    ],
+    "type": "condition",
+    "hindi": "Sannipataja Vibandha"
+  },
+  {
+    "term": "Sannipataja Amlapitta",
+    "variants": [
+      "Mixed-dosha hyperacidity/gerd",
+      "sannipataja amlapitta"
+    ],
+    "type": "condition",
+    "hindi": "Sannipataja Amlapitta"
+  },
+  {
+    "term": "Sannipataja Atisara",
+    "variants": [
+      "Mixed-dosha diarrhea",
+      "sannipataja atisara"
+    ],
+    "type": "condition",
+    "hindi": "Sannipataja Atisara"
+  },
+  {
+    "term": "Sannipataja Grahani",
+    "variants": [
+      "Mixed-dosha malabsorption syndrome",
+      "sannipataja grahani"
+    ],
+    "type": "condition",
+    "hindi": "Sannipataja Grahani"
+  },
+  {
+    "term": "Sandhivata",
+    "variants": [
+      "Osteoarthritis",
+      "sandhivata"
+    ],
+    "type": "condition",
+    "hindi": "Sandhivata"
+  },
+  {
+    "term": "Amavata",
+    "variants": [
+      "Rheumatoid pattern arthritis",
+      "amavata"
+    ],
+    "type": "condition",
+    "hindi": "Amavata"
+  },
+  {
+    "term": "Katigraha",
+    "variants": [
+      "Low back pain",
+      "katigraha"
+    ],
+    "type": "condition",
+    "hindi": "Katigraha"
+  },
+  {
+    "term": "Gridhrasi",
+    "variants": [
+      "Sciatica",
+      "gridhrasi"
+    ],
+    "type": "condition",
+    "hindi": "Gridhrasi"
+  },
+  {
+    "term": "Vataja Sandhivata",
+    "variants": [
+      "Vata-dominant osteoarthritis",
+      "vataja sandhivata"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Sandhivata"
+  },
+  {
+    "term": "Vataja Amavata",
+    "variants": [
+      "Vata-dominant rheumatoid pattern arthritis",
+      "vataja amavata"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Amavata"
+  },
+  {
+    "term": "Vataja Katigraha",
+    "variants": [
+      "Vata-dominant low back pain",
+      "vataja katigraha"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Katigraha"
+  },
+  {
+    "term": "Vataja Gridhrasi",
+    "variants": [
+      "Vata-dominant sciatica",
+      "vataja gridhrasi"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Gridhrasi"
+  },
+  {
+    "term": "Pittaja Sandhivata",
+    "variants": [
+      "Pitta-dominant osteoarthritis",
+      "pittaja sandhivata"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Sandhivata"
+  },
+  {
+    "term": "Pittaja Amavata",
+    "variants": [
+      "Pitta-dominant rheumatoid pattern arthritis",
+      "pittaja amavata"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Amavata"
+  },
+  {
+    "term": "Pittaja Katigraha",
+    "variants": [
+      "Pitta-dominant low back pain",
+      "pittaja katigraha"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Katigraha"
+  },
+  {
+    "term": "Pittaja Gridhrasi",
+    "variants": [
+      "Pitta-dominant sciatica",
+      "pittaja gridhrasi"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Gridhrasi"
+  },
+  {
+    "term": "Kaphaja Sandhivata",
+    "variants": [
+      "Kapha-dominant osteoarthritis",
+      "kaphaja sandhivata"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Sandhivata"
+  },
+  {
+    "term": "Kaphaja Amavata",
+    "variants": [
+      "Kapha-dominant rheumatoid pattern arthritis",
+      "kaphaja amavata"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Amavata"
+  },
+  {
+    "term": "Kaphaja Katigraha",
+    "variants": [
+      "Kapha-dominant low back pain",
+      "kaphaja katigraha"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Katigraha"
+  },
+  {
+    "term": "Prameha",
+    "variants": [
+      "Diabetes mellitus",
+      "prameha"
+    ],
+    "type": "condition",
+    "hindi": "Prameha"
+  },
+  {
+    "term": "Sthaulya",
+    "variants": [
+      "Obesity",
+      "sthaulya"
+    ],
+    "type": "condition",
+    "hindi": "Sthaulya"
+  },
+  {
+    "term": "Raktachapa",
+    "variants": [
+      "Hypertension",
+      "raktachapa"
+    ],
+    "type": "condition",
+    "hindi": "Raktachapa"
+  },
+  {
+    "term": "Medoroga",
+    "variants": [
+      "Lipid metabolism disorder",
+      "medoroga"
+    ],
+    "type": "condition",
+    "hindi": "Medoroga"
+  },
+  {
+    "term": "Vataja Prameha",
+    "variants": [
+      "Vata-dominant diabetes mellitus",
+      "vataja prameha"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Prameha"
+  },
+  {
+    "term": "Vataja Sthaulya",
+    "variants": [
+      "Vata-dominant obesity",
+      "vataja sthaulya"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Sthaulya"
+  },
+  {
+    "term": "Vataja Raktachapa",
+    "variants": [
+      "Vata-dominant hypertension",
+      "vataja raktachapa"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Raktachapa"
+  },
+  {
+    "term": "Vataja Medoroga",
+    "variants": [
+      "Vata-dominant lipid metabolism disorder",
+      "vataja medoroga"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Medoroga"
+  },
+  {
+    "term": "Pittaja Prameha",
+    "variants": [
+      "Pitta-dominant diabetes mellitus",
+      "pittaja prameha"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Prameha"
+  },
+  {
+    "term": "Pittaja Sthaulya",
+    "variants": [
+      "Pitta-dominant obesity",
+      "pittaja sthaulya"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Sthaulya"
+  },
+  {
+    "term": "Pittaja Raktachapa",
+    "variants": [
+      "Pitta-dominant hypertension",
+      "pittaja raktachapa"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Raktachapa"
+  },
+  {
+    "term": "Pittaja Medoroga",
+    "variants": [
+      "Pitta-dominant lipid metabolism disorder",
+      "pittaja medoroga"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Medoroga"
+  },
+  {
+    "term": "Kaphaja Prameha",
+    "variants": [
+      "Kapha-dominant diabetes mellitus",
+      "kaphaja prameha"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Prameha"
+  },
+  {
+    "term": "Kaphaja Sthaulya",
+    "variants": [
+      "Kapha-dominant obesity",
+      "kaphaja sthaulya"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Sthaulya"
+  },
+  {
+    "term": "Kaphaja Raktachapa",
+    "variants": [
+      "Kapha-dominant hypertension",
+      "kaphaja raktachapa"
+    ],
+    "type": "condition",
+    "hindi": "Kaphaja Raktachapa"
+  },
+  {
+    "term": "Shwasa",
+    "variants": [
+      "Dyspnea/asthmatic syndrome",
+      "shwasa"
+    ],
+    "type": "condition",
+    "hindi": "Shwasa"
+  },
+  {
+    "term": "Kasa",
+    "variants": [
+      "Cough",
+      "kasa"
+    ],
+    "type": "condition",
+    "hindi": "Kasa"
+  },
+  {
+    "term": "Pratishyaya",
+    "variants": [
+      "Rhinitis",
+      "pratishyaya"
+    ],
+    "type": "condition",
+    "hindi": "Pratishyaya"
+  },
+  {
+    "term": "Peenasa",
+    "variants": [
+      "Chronic sinusitis",
+      "peenasa"
+    ],
+    "type": "condition",
+    "hindi": "Peenasa"
+  },
+  {
+    "term": "Vataja Shwasa",
+    "variants": [
+      "Vata-dominant dyspnea/asthmatic syndrome",
+      "vataja shwasa"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Shwasa"
+  },
+  {
+    "term": "Vataja Kasa",
+    "variants": [
+      "Vata-dominant cough",
+      "vataja kasa"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Kasa"
+  },
+  {
+    "term": "Vataja Pratishyaya",
+    "variants": [
+      "Vata-dominant rhinitis",
+      "vataja pratishyaya"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Pratishyaya"
+  },
+  {
+    "term": "Vataja Peenasa",
+    "variants": [
+      "Vata-dominant chronic sinusitis",
+      "vataja peenasa"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Peenasa"
+  },
+  {
+    "term": "Pittaja Shwasa",
+    "variants": [
+      "Pitta-dominant dyspnea/asthmatic syndrome",
+      "pittaja shwasa"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Shwasa"
+  },
+  {
+    "term": "Pittaja Kasa",
+    "variants": [
+      "Pitta-dominant cough",
+      "pittaja kasa"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Kasa"
+  },
+  {
+    "term": "Ashmari",
+    "variants": [
+      "Urinary calculi",
+      "ashmari"
+    ],
+    "type": "condition",
+    "hindi": "Ashmari"
+  },
+  {
+    "term": "Mutrakricchra",
+    "variants": [
+      "Dysuria",
+      "mutrakricchra"
+    ],
+    "type": "condition",
+    "hindi": "Mutrakricchra"
+  },
+  {
+    "term": "Mutraghata",
+    "variants": [
+      "Urinary retention",
+      "mutraghata"
+    ],
+    "type": "condition",
+    "hindi": "Mutraghata"
+  },
+  {
+    "term": "Mootradaha",
+    "variants": [
+      "Urinary burning",
+      "mootradaha"
+    ],
+    "type": "condition",
+    "hindi": "Mootradaha"
+  },
+  {
+    "term": "Vataja Ashmari",
+    "variants": [
+      "Vata-dominant urinary calculi",
+      "vataja ashmari"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Ashmari"
+  },
+  {
+    "term": "Vataja Mutrakricchra",
+    "variants": [
+      "Vata-dominant dysuria",
+      "vataja mutrakricchra"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Mutrakricchra"
+  },
+  {
+    "term": "Vataja Mutraghata",
+    "variants": [
+      "Vata-dominant urinary retention",
+      "vataja mutraghata"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Mutraghata"
+  },
+  {
+    "term": "Vataja Mootradaha",
+    "variants": [
+      "Vata-dominant urinary burning",
+      "vataja mootradaha"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Mootradaha"
+  },
+  {
+    "term": "Pittaja Ashmari",
+    "variants": [
+      "Pitta-dominant urinary calculi",
+      "pittaja ashmari"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Ashmari"
+  },
+  {
+    "term": "Pittaja Mutrakricchra",
+    "variants": [
+      "Pitta-dominant dysuria",
+      "pittaja mutrakricchra"
+    ],
+    "type": "condition",
+    "hindi": "Pittaja Mutrakricchra"
+  },
+  {
+    "term": "Ardita",
+    "variants": [
+      "Facial palsy",
+      "ardita"
+    ],
+    "type": "condition",
+    "hindi": "Ardita"
+  },
+  {
+    "term": "Pakshaghata",
+    "variants": [
+      "Hemiplegia",
+      "pakshaghata"
+    ],
+    "type": "condition",
+    "hindi": "Pakshaghata"
+  },
+  {
+    "term": "Kampavata",
+    "variants": [
+      "Parkinsonian tremor syndrome",
+      "kampavata"
+    ],
+    "type": "condition",
+    "hindi": "Kampavata"
+  },
+  {
+    "term": "Apasmara",
+    "variants": [
+      "Epilepsy",
+      "apasmara"
+    ],
+    "type": "condition",
+    "hindi": "Apasmara"
+  },
+  {
+    "term": "Vataja Ardita",
+    "variants": [
+      "Vata-dominant facial palsy",
+      "vataja ardita"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Ardita"
+  },
+  {
+    "term": "Vataja Pakshaghata",
+    "variants": [
+      "Vata-dominant hemiplegia",
+      "vataja pakshaghata"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Pakshaghata"
+  },
+  {
+    "term": "Vataja Kampavata",
+    "variants": [
+      "Vata-dominant parkinsonian tremor syndrome",
+      "vataja kampavata"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Kampavata"
+  },
+  {
+    "term": "Vataja Apasmara",
+    "variants": [
+      "Vata-dominant epilepsy",
+      "vataja apasmara"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Apasmara"
+  },
+  {
+    "term": "Kushtha",
+    "variants": [
+      "Dermatosis",
+      "kushtha"
+    ],
+    "type": "condition",
+    "hindi": "Kushtha"
+  },
+  {
+    "term": "Vicharchika",
+    "variants": [
+      "Eczema",
+      "vicharchika"
+    ],
+    "type": "condition",
+    "hindi": "Vicharchika"
+  },
+  {
+    "term": "Dadru",
+    "variants": [
+      "Fungal ringworm",
+      "dadru"
+    ],
+    "type": "condition",
+    "hindi": "Dadru"
+  },
+  {
+    "term": "Mukhadushika",
+    "variants": [
+      "Acne",
+      "mukhadushika"
+    ],
+    "type": "condition",
+    "hindi": "Mukhadushika"
+  },
+  {
+    "term": "Vataja Kushtha",
+    "variants": [
+      "Vata-dominant dermatosis",
+      "vataja kushtha"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Kushtha"
+  },
+  {
+    "term": "Vataja Vicharchika",
+    "variants": [
+      "Vata-dominant eczema",
+      "vataja vicharchika"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Vicharchika"
+  },
+  {
+    "term": "Vataja Dadru",
+    "variants": [
+      "Vata-dominant fungal ringworm",
+      "vataja dadru"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Dadru"
+  },
+  {
+    "term": "Vataja Mukhadushika",
+    "variants": [
+      "Vata-dominant acne",
+      "vataja mukhadushika"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Mukhadushika"
+  },
+  {
+    "term": "Chittodvega",
+    "variants": [
+      "Anxiety disorder",
+      "chittodvega"
+    ],
+    "type": "condition",
+    "hindi": "Chittodvega"
+  },
+  {
+    "term": "Vishada",
+    "variants": [
+      "Depressive state",
+      "vishada"
+    ],
+    "type": "condition",
+    "hindi": "Vishada"
+  },
+  {
+    "term": "Anidra",
+    "variants": [
+      "Insomnia",
+      "anidra"
+    ],
+    "type": "condition",
+    "hindi": "Anidra"
+  },
+  {
+    "term": "Unmada",
+    "variants": [
+      "Psychotic syndrome",
+      "unmada"
+    ],
+    "type": "condition",
+    "hindi": "Unmada"
+  },
+  {
+    "term": "Vataja Chittodvega",
+    "variants": [
+      "Vata-dominant anxiety disorder",
+      "vataja chittodvega"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Chittodvega"
+  },
+  {
+    "term": "Jwara",
+    "variants": [
+      "Fever",
+      "jwara"
+    ],
+    "type": "condition",
+    "hindi": "Jwara"
+  },
+  {
+    "term": "Vishamajwara",
+    "variants": [
+      "Intermittent fever",
+      "vishamajwara"
+    ],
+    "type": "condition",
+    "hindi": "Vishamajwara"
+  },
+  {
+    "term": "Aamajwara",
+    "variants": [
+      "Toxic febrile syndrome",
+      "aamajwara"
+    ],
+    "type": "condition",
+    "hindi": "Aamajwara"
+  },
+  {
+    "term": "Aupasargika Roga",
+    "variants": [
+      "Infectious disease syndrome",
+      "aupasargika roga"
+    ],
+    "type": "condition",
+    "hindi": "Aupasargika Roga"
+  },
+  {
+    "term": "Vataja Jwara",
+    "variants": [
+      "Vata-dominant fever",
+      "vataja jwara"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Jwara"
+  },
+  {
+    "term": "Vataja Vishamajwara",
+    "variants": [
+      "Vata-dominant intermittent fever",
+      "vataja vishamajwara"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Vishamajwara"
+  },
+  {
+    "term": "Vataja Aamajwara",
+    "variants": [
+      "Vata-dominant toxic febrile syndrome",
+      "vataja aamajwara"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Aamajwara"
+  },
+  {
+    "term": "Vataja Aupasargika Roga",
+    "variants": [
+      "Vata-dominant infectious disease syndrome",
+      "vataja aupasargika roga"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Aupasargika Roga"
+  },
+  {
+    "term": "Kashtartava",
+    "variants": [
+      "Dysmenorrhea",
+      "kashtartava"
+    ],
+    "type": "condition",
+    "hindi": "Kashtartava"
+  },
+  {
+    "term": "Artavakshaya",
+    "variants": [
+      "Oligomenorrhea",
+      "artavakshaya"
+    ],
+    "type": "condition",
+    "hindi": "Artavakshaya"
+  },
+  {
+    "term": "Pradara",
+    "variants": [
+      "Leucorrhea",
+      "pradara"
+    ],
+    "type": "condition",
+    "hindi": "Pradara"
+  },
+  {
+    "term": "Vandhyatva",
+    "variants": [
+      "Infertility",
+      "vandhyatva"
+    ],
+    "type": "condition",
+    "hindi": "Vandhyatva"
+  },
+  {
+    "term": "Vataja Kashtartava",
+    "variants": [
+      "Vata-dominant dysmenorrhea",
+      "vataja kashtartava"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Kashtartava"
+  },
+  {
+    "term": "Vataja Artavakshaya",
+    "variants": [
+      "Vata-dominant oligomenorrhea",
+      "vataja artavakshaya"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Artavakshaya"
+  },
+  {
+    "term": "Vataja Pradara",
+    "variants": [
+      "Vata-dominant leucorrhea",
+      "vataja pradara"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Pradara"
+  },
+  {
+    "term": "Vataja Vandhyatva",
+    "variants": [
+      "Vata-dominant infertility",
+      "vataja vandhyatva"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Vandhyatva"
+  },
+  {
+    "term": "Daurbalya",
+    "variants": [
+      "General weakness",
+      "daurbalya"
+    ],
+    "type": "condition",
+    "hindi": "Daurbalya"
+  },
+  {
+    "term": "Ojakshaya",
+    "variants": [
+      "Immunity depletion",
+      "ojakshaya"
+    ],
+    "type": "condition",
+    "hindi": "Ojakshaya"
+  },
+  {
+    "term": "Agnimandya",
+    "variants": [
+      "Low digestive fire",
+      "agnimandya"
+    ],
+    "type": "condition",
+    "hindi": "Agnimandya"
+  },
+  {
+    "term": "Nidranasha",
+    "variants": [
+      "Sleep disturbance",
+      "nidranasha"
+    ],
+    "type": "condition",
+    "hindi": "Nidranasha"
+  },
+  {
+    "term": "Vataja Daurbalya",
+    "variants": [
+      "Vata-dominant general weakness",
+      "vataja daurbalya"
+    ],
+    "type": "condition",
+    "hindi": "Vataja Daurbalya"
+  },
+  {
+    "term": "Triphala Churna",
+    "variants": [
+      "Triphala Churna",
+      "triphala churna"
+    ],
+    "type": "formulation",
+    "hindi": "Triphala Churna"
+  },
+  {
+    "term": "Abhayarishta",
+    "variants": [
+      "Abhayarishta",
+      "abhayarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Abhayarishta"
+  },
+  {
+    "term": "Avipattikar Churna",
+    "variants": [
+      "Avipattikar Churna",
+      "avipattikar churna"
+    ],
+    "type": "formulation",
+    "hindi": "Avipattikar Churna"
+  },
+  {
+    "term": "Draksha",
+    "variants": [
+      "Draksha",
+      "draksha"
+    ],
+    "type": "formulation",
+    "hindi": "Draksha"
+  },
+  {
+    "term": "Eranda Bhrushta Haritaki",
+    "variants": [
+      "Eranda Bhrushta Haritaki",
+      "eranda bhrushta haritaki"
+    ],
+    "type": "formulation",
+    "hindi": "Eranda Bhrushta Haritaki"
+  },
+  {
+    "term": "Hingwashtaka Churna",
+    "variants": [
+      "Hingwashtaka Churna",
+      "hingwashtaka churna"
+    ],
+    "type": "formulation",
+    "hindi": "Hingwashtaka Churna"
+  },
+  {
+    "term": "Shankha Vati",
+    "variants": [
+      "Shankha Vati",
+      "shankha vati"
+    ],
+    "type": "formulation",
+    "hindi": "Shankha Vati"
+  },
+  {
+    "term": "Sutashekhar Rasa",
+    "variants": [
+      "Sutashekhar Rasa",
+      "sutashekhar rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Sutashekhar Rasa"
+  },
+  {
+    "term": "Kamdudha Rasa",
+    "variants": [
+      "Kamdudha Rasa",
+      "kamdudha rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Kamdudha Rasa"
+  },
+  {
+    "term": "Praval Panchamrit",
+    "variants": [
+      "Praval Panchamrit",
+      "praval panchamrit"
+    ],
+    "type": "formulation",
+    "hindi": "Praval Panchamrit"
+  },
+  {
+    "term": "Chitrakadi Vati",
+    "variants": [
+      "Chitrakadi Vati",
+      "chitrakadi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Chitrakadi Vati"
+  },
+  {
+    "term": "Lavanbhaskar Churna",
+    "variants": [
+      "Lavanbhaskar Churna",
+      "lavanbhaskar churna"
+    ],
+    "type": "formulation",
+    "hindi": "Lavanbhaskar Churna"
+  },
+  {
+    "term": "Bhunimbadi Kashaya",
+    "variants": [
+      "Bhunimbadi Kashaya",
+      "bhunimbadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Bhunimbadi Kashaya"
+  },
+  {
+    "term": "Dadimadi Ghrita",
+    "variants": [
+      "Dadimadi Ghrita",
+      "dadimadi ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Dadimadi Ghrita"
+  },
+  {
+    "term": "Pippalyasava",
+    "variants": [
+      "Pippalyasava",
+      "pippalyasava"
+    ],
+    "type": "formulation",
+    "hindi": "Pippalyasava"
+  },
+  {
+    "term": "Jirakadyarishta",
+    "variants": [
+      "Jirakadyarishta",
+      "jirakadyarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Jirakadyarishta"
+  },
+  {
+    "term": "Takrarishta",
+    "variants": [
+      "Takrarishta",
+      "takrarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Takrarishta"
+  },
+  {
+    "term": "Bilvadi Churna",
+    "variants": [
+      "Bilvadi Churna",
+      "bilvadi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Bilvadi Churna"
+  },
+  {
+    "term": "Panchsakar Churna",
+    "variants": [
+      "Panchsakar Churna",
+      "panchsakar churna"
+    ],
+    "type": "formulation",
+    "hindi": "Panchsakar Churna"
+  },
+  {
+    "term": "Kutajarishta",
+    "variants": [
+      "Kutajarishta",
+      "kutajarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Kutajarishta"
+  },
+  {
+    "term": "Kutajghan Vati",
+    "variants": [
+      "Kutajghan Vati",
+      "kutajghan vati"
+    ],
+    "type": "formulation",
+    "hindi": "Kutajghan Vati"
+  },
+  {
+    "term": "Udumbara Kashaya",
+    "variants": [
+      "Udumbara Kashaya",
+      "udumbara kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Udumbara Kashaya"
+  },
+  {
+    "term": "Jatiphaladi Churna",
+    "variants": [
+      "Jatiphaladi Churna",
+      "jatiphaladi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Jatiphaladi Churna"
+  },
+  {
+    "term": "Mustadi Kashaya",
+    "variants": [
+      "Mustadi Kashaya",
+      "mustadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Mustadi Kashaya"
+  },
+  {
+    "term": "Sanjeevani Vati",
+    "variants": [
+      "Sanjeevani Vati",
+      "sanjeevani vati"
+    ],
+    "type": "formulation",
+    "hindi": "Sanjeevani Vati"
+  },
+  {
+    "term": "Yogaraja Guggulu",
+    "variants": [
+      "Yogaraja Guggulu",
+      "yogaraja guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Yogaraja Guggulu"
+  },
+  {
+    "term": "Maharasnadi Kashaya",
+    "variants": [
+      "Maharasnadi Kashaya",
+      "maharasnadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Maharasnadi Kashaya"
+  },
+  {
+    "term": "Dashamoola Kashaya",
+    "variants": [
+      "Dashamoola Kashaya",
+      "dashamoola kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Dashamoola Kashaya"
+  },
+  {
+    "term": "Simhanada Guggulu",
+    "variants": [
+      "Simhanada Guggulu",
+      "simhanada guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Simhanada Guggulu"
+  },
+  {
+    "term": "Ashwagandha Churna",
+    "variants": [
+      "Ashwagandha Churna",
+      "ashwagandha churna"
+    ],
+    "type": "formulation",
+    "hindi": "Ashwagandha Churna"
+  },
+  {
+    "term": "Bala Taila",
+    "variants": [
+      "Bala Taila",
+      "bala taila"
+    ],
+    "type": "formulation",
+    "hindi": "Bala Taila"
+  },
+  {
+    "term": "Vishgarbha Taila",
+    "variants": [
+      "Vishgarbha Taila",
+      "vishgarbha taila"
+    ],
+    "type": "formulation",
+    "hindi": "Vishgarbha Taila"
+  },
+  {
+    "term": "Kottamchukkadi Taila",
+    "variants": [
+      "Kottamchukkadi Taila",
+      "kottamchukkadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Kottamchukkadi Taila"
+  },
+  {
+    "term": "Rasnasaptak Kashaya",
+    "variants": [
+      "Rasnasaptak Kashaya",
+      "rasnasaptak kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Rasnasaptak Kashaya"
+  },
+  {
+    "term": "Brihat Vata Chintamani Rasa",
+    "variants": [
+      "Brihat Vata Chintamani Rasa",
+      "brihat vata chintamani rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Brihat Vata Chintamani Rasa"
+  },
+  {
+    "term": "Rasna Saptak Kwath",
+    "variants": [
+      "Rasna Saptak Kwath",
+      "rasna saptak kwath"
+    ],
+    "type": "formulation",
+    "hindi": "Rasna Saptak Kwath"
+  },
+  {
+    "term": "Mahavishagarbha Taila",
+    "variants": [
+      "Mahavishagarbha Taila",
+      "mahavishagarbha taila"
+    ],
+    "type": "formulation",
+    "hindi": "Mahavishagarbha Taila"
+  },
+  {
+    "term": "Eranda Taila",
+    "variants": [
+      "Eranda Taila",
+      "eranda taila"
+    ],
+    "type": "formulation",
+    "hindi": "Eranda Taila"
+  },
+  {
+    "term": "Prasarini Taila",
+    "variants": [
+      "Prasarini Taila",
+      "prasarini taila"
+    ],
+    "type": "formulation",
+    "hindi": "Prasarini Taila"
+  },
+  {
+    "term": "Sahacharadi Taila",
+    "variants": [
+      "Sahacharadi Taila",
+      "sahacharadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Sahacharadi Taila"
+  },
+  {
+    "term": "Dhanwantharam Taila",
+    "variants": [
+      "Dhanwantharam Taila",
+      "dhanwantharam taila"
+    ],
+    "type": "formulation",
+    "hindi": "Dhanwantharam Taila"
+  },
+  {
+    "term": "Nirgundi Taila",
+    "variants": [
+      "Nirgundi Taila",
+      "nirgundi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Nirgundi Taila"
+  },
+  {
+    "term": "Maha Narayana Taila",
+    "variants": [
+      "Maha Narayana Taila",
+      "maha narayana taila"
+    ],
+    "type": "formulation",
+    "hindi": "Maha Narayana Taila"
+  },
+  {
+    "term": "Trayodashanga Guggulu",
+    "variants": [
+      "Trayodashanga Guggulu",
+      "trayodashanga guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Trayodashanga Guggulu"
+  },
+  {
+    "term": "Ekangaveer Rasa",
+    "variants": [
+      "Ekangaveer Rasa",
+      "ekangaveer rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Ekangaveer Rasa"
+  },
+  {
+    "term": "Chandraprabha Vati",
+    "variants": [
+      "Chandraprabha Vati",
+      "chandraprabha vati"
+    ],
+    "type": "formulation",
+    "hindi": "Chandraprabha Vati"
+  },
+  {
+    "term": "Shilajit",
+    "variants": [
+      "Shilajit",
+      "shilajit"
+    ],
+    "type": "formulation",
+    "hindi": "Shilajit"
+  },
+  {
+    "term": "Guduchi",
+    "variants": [
+      "Guduchi",
+      "guduchi"
+    ],
+    "type": "formulation",
+    "hindi": "Guduchi"
+  },
+  {
+    "term": "Nishamalaki",
+    "variants": [
+      "Nishamalaki",
+      "nishamalaki"
+    ],
+    "type": "formulation",
+    "hindi": "Nishamalaki"
+  },
+  {
+    "term": "Triphala Guggulu",
+    "variants": [
+      "Triphala Guggulu",
+      "triphala guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Triphala Guggulu"
+  },
+  {
+    "term": "Arogyavardhini Vati",
+    "variants": [
+      "Arogyavardhini Vati",
+      "arogyavardhini vati"
+    ],
+    "type": "formulation",
+    "hindi": "Arogyavardhini Vati"
+  },
+  {
+    "term": "Medohar Guggulu",
+    "variants": [
+      "Medohar Guggulu",
+      "medohar guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Medohar Guggulu"
+  },
+  {
+    "term": "Punarnava Mandoor",
+    "variants": [
+      "Punarnava Mandoor",
+      "punarnava mandoor"
+    ],
+    "type": "formulation",
+    "hindi": "Punarnava Mandoor"
+  },
+  {
+    "term": "Sarpagandha Vati",
+    "variants": [
+      "Sarpagandha Vati",
+      "sarpagandha vati"
+    ],
+    "type": "formulation",
+    "hindi": "Sarpagandha Vati"
+  },
+  {
+    "term": "Varunadi Kashaya",
+    "variants": [
+      "Varunadi Kashaya",
+      "varunadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Varunadi Kashaya"
+  },
+  {
+    "term": "Asanadi Kashaya",
+    "variants": [
+      "Asanadi Kashaya",
+      "asanadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Asanadi Kashaya"
+  },
+  {
+    "term": "Kataka Khadiradi Kashaya",
+    "variants": [
+      "Kataka Khadiradi Kashaya",
+      "kataka khadiradi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Kataka Khadiradi Kashaya"
+  },
+  {
+    "term": "Dhanvantari Gutika",
+    "variants": [
+      "Dhanvantari Gutika",
+      "dhanvantari gutika"
+    ],
+    "type": "formulation",
+    "hindi": "Dhanvantari Gutika"
+  },
+  {
+    "term": "Lohasava",
+    "variants": [
+      "Lohasava",
+      "lohasava"
+    ],
+    "type": "formulation",
+    "hindi": "Lohasava"
+  },
+  {
+    "term": "Navayasa Loha",
+    "variants": [
+      "Navayasa Loha",
+      "navayasa loha"
+    ],
+    "type": "formulation",
+    "hindi": "Navayasa Loha"
+  },
+  {
+    "term": "Vidangadi Churna",
+    "variants": [
+      "Vidangadi Churna",
+      "vidangadi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Vidangadi Churna"
+  },
+  {
+    "term": "Guggulutiktaka Ghrita",
+    "variants": [
+      "Guggulutiktaka Ghrita",
+      "guggulutiktaka ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Guggulutiktaka Ghrita"
+  },
+  {
+    "term": "Amritadi Guggulu",
+    "variants": [
+      "Amritadi Guggulu",
+      "amritadi guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Amritadi Guggulu"
+  },
+  {
+    "term": "Kanchanar Guggulu",
+    "variants": [
+      "Kanchanar Guggulu",
+      "kanchanar guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Kanchanar Guggulu"
+  },
+  {
+    "term": "Vyoshadi Guggulu",
+    "variants": [
+      "Vyoshadi Guggulu",
+      "vyoshadi guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Vyoshadi Guggulu"
+  },
+  {
+    "term": "Sitopaladi Churna",
+    "variants": [
+      "Sitopaladi Churna",
+      "sitopaladi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Sitopaladi Churna"
+  },
+  {
+    "term": "Talisadi Churna",
+    "variants": [
+      "Talisadi Churna",
+      "talisadi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Talisadi Churna"
+  },
+  {
+    "term": "Kantakari Avaleha",
+    "variants": [
+      "Kantakari Avaleha",
+      "kantakari avaleha"
+    ],
+    "type": "formulation",
+    "hindi": "Kantakari Avaleha"
+  },
+  {
+    "term": "Vasavaleha",
+    "variants": [
+      "Vasavaleha",
+      "vasavaleha"
+    ],
+    "type": "formulation",
+    "hindi": "Vasavaleha"
+  },
+  {
+    "term": "Vyoshadi Vati",
+    "variants": [
+      "Vyoshadi Vati",
+      "vyoshadi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Vyoshadi Vati"
+  },
+  {
+    "term": "Agastya Haritaki",
+    "variants": [
+      "Agastya Haritaki",
+      "agastya haritaki"
+    ],
+    "type": "formulation",
+    "hindi": "Agastya Haritaki"
+  },
+  {
+    "term": "Dashamoola Katutrayadi Kashaya",
+    "variants": [
+      "Dashamoola Katutrayadi Kashaya",
+      "dashamoola katutrayadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Dashamoola Katutrayadi Kashaya"
+  },
+  {
+    "term": "Haridra Khanda",
+    "variants": [
+      "Haridra Khanda",
+      "haridra khanda"
+    ],
+    "type": "formulation",
+    "hindi": "Haridra Khanda"
+  },
+  {
+    "term": "Lakshmi Vilas Rasa",
+    "variants": [
+      "Lakshmi Vilas Rasa",
+      "lakshmi vilas rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Lakshmi Vilas Rasa"
+  },
+  {
+    "term": "Tribhuvankirti Rasa",
+    "variants": [
+      "Tribhuvankirti Rasa",
+      "tribhuvankirti rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Tribhuvankirti Rasa"
+  },
+  {
+    "term": "Chyawanprash",
+    "variants": [
+      "Chyawanprash",
+      "chyawanprash"
+    ],
+    "type": "formulation",
+    "hindi": "Chyawanprash"
+  },
+  {
+    "term": "Bharangyadi Kashaya",
+    "variants": [
+      "Bharangyadi Kashaya",
+      "bharangyadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Bharangyadi Kashaya"
+  },
+  {
+    "term": "Mahalakshmivilas Rasa",
+    "variants": [
+      "Mahalakshmivilas Rasa",
+      "mahalakshmivilas rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Mahalakshmivilas Rasa"
+  },
+  {
+    "term": "Kanakasava",
+    "variants": [
+      "Kanakasava",
+      "kanakasava"
+    ],
+    "type": "formulation",
+    "hindi": "Kanakasava"
+  },
+  {
+    "term": "Shwaskuthar Rasa",
+    "variants": [
+      "Shwaskuthar Rasa",
+      "shwaskuthar rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Shwaskuthar Rasa"
+  },
+  {
+    "term": "Gokshuradi Guggulu",
+    "variants": [
+      "Gokshuradi Guggulu",
+      "gokshuradi guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Gokshuradi Guggulu"
+  },
+  {
+    "term": "Punarnavadi Kashaya",
+    "variants": [
+      "Punarnavadi Kashaya",
+      "punarnavadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Punarnavadi Kashaya"
+  },
+  {
+    "term": "Chandanasava",
+    "variants": [
+      "Chandanasava",
+      "chandanasava"
+    ],
+    "type": "formulation",
+    "hindi": "Chandanasava"
+  },
+  {
+    "term": "Pashanabheda",
+    "variants": [
+      "Pashanabheda",
+      "pashanabheda"
+    ],
+    "type": "formulation",
+    "hindi": "Pashanabheda"
+  },
+  {
+    "term": "Shveta Parpati",
+    "variants": [
+      "Shveta Parpati",
+      "shveta parpati"
+    ],
+    "type": "formulation",
+    "hindi": "Shveta Parpati"
+  },
+  {
+    "term": "Trivikrama Rasa",
+    "variants": [
+      "Trivikrama Rasa",
+      "trivikrama rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Trivikrama Rasa"
+  },
+  {
+    "term": "Hajrul Yahud Bhasma",
+    "variants": [
+      "Hajrul Yahud Bhasma",
+      "hajrul yahud bhasma"
+    ],
+    "type": "formulation",
+    "hindi": "Hajrul Yahud Bhasma"
+  },
+  {
+    "term": "Varunadi Kwath",
+    "variants": [
+      "Varunadi Kwath",
+      "varunadi kwath"
+    ],
+    "type": "formulation",
+    "hindi": "Varunadi Kwath"
+  },
+  {
+    "term": "Punarnavasava",
+    "variants": [
+      "Punarnavasava",
+      "punarnavasava"
+    ],
+    "type": "formulation",
+    "hindi": "Punarnavasava"
+  },
+  {
+    "term": "Ushiradi Kashaya",
+    "variants": [
+      "Ushiradi Kashaya",
+      "ushiradi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Ushiradi Kashaya"
+  },
+  {
+    "term": "Eladi Churna",
+    "variants": [
+      "Eladi Churna",
+      "eladi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Eladi Churna"
+  },
+  {
+    "term": "Gokshura Churna",
+    "variants": [
+      "Gokshura Churna",
+      "gokshura churna"
+    ],
+    "type": "formulation",
+    "hindi": "Gokshura Churna"
+  },
+  {
+    "term": "Yavakshar",
+    "variants": [
+      "Yavakshar",
+      "yavakshar"
+    ],
+    "type": "formulation",
+    "hindi": "Yavakshar"
+  },
+  {
+    "term": "Shilajatu Vati",
+    "variants": [
+      "Shilajatu Vati",
+      "shilajatu vati"
+    ],
+    "type": "formulation",
+    "hindi": "Shilajatu Vati"
+  },
+  {
+    "term": "Brihat Shilajit Vati",
+    "variants": [
+      "Brihat Shilajit Vati",
+      "brihat shilajit vati"
+    ],
+    "type": "formulation",
+    "hindi": "Brihat Shilajit Vati"
+  },
+  {
+    "term": "Sudarshana Churna",
+    "variants": [
+      "Sudarshana Churna",
+      "sudarshana churna"
+    ],
+    "type": "formulation",
+    "hindi": "Sudarshana Churna"
+  },
+  {
+    "term": "Mahasudarshan Churna",
+    "variants": [
+      "Mahasudarshan Churna",
+      "mahasudarshan churna"
+    ],
+    "type": "formulation",
+    "hindi": "Mahasudarshan Churna"
+  },
+  {
+    "term": "Guduchi Satva",
+    "variants": [
+      "Guduchi Satva",
+      "guduchi satva"
+    ],
+    "type": "formulation",
+    "hindi": "Guduchi Satva"
+  },
+  {
+    "term": "Mritunjay Rasa",
+    "variants": [
+      "Mritunjay Rasa",
+      "mritunjay rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Mritunjay Rasa"
+  },
+  {
+    "term": "Ananda Bhairava Rasa",
+    "variants": [
+      "Ananda Bhairava Rasa",
+      "ananda bhairava rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Ananda Bhairava Rasa"
+  },
+  {
+    "term": "Godanti Bhasma",
+    "variants": [
+      "Godanti Bhasma",
+      "godanti bhasma"
+    ],
+    "type": "formulation",
+    "hindi": "Godanti Bhasma"
+  },
+  {
+    "term": "Jwarnashak Kwath",
+    "variants": [
+      "Jwarnashak Kwath",
+      "jwarnashak kwath"
+    ],
+    "type": "formulation",
+    "hindi": "Jwarnashak Kwath"
+  },
+  {
+    "term": "Shadanga Paniya",
+    "variants": [
+      "Shadanga Paniya",
+      "shadanga paniya"
+    ],
+    "type": "formulation",
+    "hindi": "Shadanga Paniya"
+  },
+  {
+    "term": "Panchanimba Churna",
+    "variants": [
+      "Panchanimba Churna",
+      "panchanimba churna"
+    ],
+    "type": "formulation",
+    "hindi": "Panchanimba Churna"
+  },
+  {
+    "term": "Kiratatikta",
+    "variants": [
+      "Kiratatikta",
+      "kiratatikta"
+    ],
+    "type": "formulation",
+    "hindi": "Kiratatikta"
+  },
+  {
+    "term": "Amritarishta",
+    "variants": [
+      "Amritarishta",
+      "amritarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Amritarishta"
+  },
+  {
+    "term": "Samshamani Vati",
+    "variants": [
+      "Samshamani Vati",
+      "samshamani vati"
+    ],
+    "type": "formulation",
+    "hindi": "Samshamani Vati"
+  },
+  {
+    "term": "Laxmivilas Rasa",
+    "variants": [
+      "Laxmivilas Rasa",
+      "laxmivilas rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Laxmivilas Rasa"
+  },
+  {
+    "term": "Parijat Kwath",
+    "variants": [
+      "Parijat Kwath",
+      "parijat kwath"
+    ],
+    "type": "formulation",
+    "hindi": "Parijat Kwath"
+  },
+  {
+    "term": "Mahamanjishthadi Kashaya",
+    "variants": [
+      "Mahamanjishthadi Kashaya",
+      "mahamanjishthadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Mahamanjishthadi Kashaya"
+  },
+  {
+    "term": "Khadirarishta",
+    "variants": [
+      "Khadirarishta",
+      "khadirarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Khadirarishta"
+  },
+  {
+    "term": "Gandhaka Rasayana",
+    "variants": [
+      "Gandhaka Rasayana",
+      "gandhaka rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Gandhaka Rasayana"
+  },
+  {
+    "term": "Sarivadyasava",
+    "variants": [
+      "Sarivadyasava",
+      "sarivadyasava"
+    ],
+    "type": "formulation",
+    "hindi": "Sarivadyasava"
+  },
+  {
+    "term": "Guduchyadi Kashaya",
+    "variants": [
+      "Guduchyadi Kashaya",
+      "guduchyadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Guduchyadi Kashaya"
+  },
+  {
+    "term": "Panchatikta Ghrita",
+    "variants": [
+      "Panchatikta Ghrita",
+      "panchatikta ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Panchatikta Ghrita"
+  },
+  {
+    "term": "Panchatikta Guggulu Ghrita",
+    "variants": [
+      "Panchatikta Guggulu Ghrita",
+      "panchatikta guggulu ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Panchatikta Guggulu Ghrita"
+  },
+  {
+    "term": "Raktashodhak Bati",
+    "variants": [
+      "Raktashodhak Bati",
+      "raktashodhak bati"
+    ],
+    "type": "formulation",
+    "hindi": "Raktashodhak Bati"
+  },
+  {
+    "term": "Neem Churna",
+    "variants": [
+      "Neem Churna",
+      "neem churna"
+    ],
+    "type": "formulation",
+    "hindi": "Neem Churna"
+  },
+  {
+    "term": "Bakuchi Taila",
+    "variants": [
+      "Bakuchi Taila",
+      "bakuchi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Bakuchi Taila"
+  },
+  {
+    "term": "Jatyadi Taila",
+    "variants": [
+      "Jatyadi Taila",
+      "jatyadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Jatyadi Taila"
+  },
+  {
+    "term": "Kumkumadi Taila",
+    "variants": [
+      "Kumkumadi Taila",
+      "kumkumadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Kumkumadi Taila"
+  },
+  {
+    "term": "Marichadi Taila",
+    "variants": [
+      "Marichadi Taila",
+      "marichadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Marichadi Taila"
+  },
+  {
+    "term": "Eladi Taila",
+    "variants": [
+      "Eladi Taila",
+      "eladi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Eladi Taila"
+  },
+  {
+    "term": "Arogyavardhini",
+    "variants": [
+      "Arogyavardhini",
+      "arogyavardhini"
+    ],
+    "type": "formulation",
+    "hindi": "Arogyavardhini"
+  },
+  {
+    "term": "Brahmi Vati",
+    "variants": [
+      "Brahmi Vati",
+      "brahmi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Brahmi Vati"
+  },
+  {
+    "term": "Saraswatarishta",
+    "variants": [
+      "Saraswatarishta",
+      "saraswatarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Saraswatarishta"
+  },
+  {
+    "term": "Ashwagandharishta",
+    "variants": [
+      "Ashwagandharishta",
+      "ashwagandharishta"
+    ],
+    "type": "formulation",
+    "hindi": "Ashwagandharishta"
+  },
+  {
+    "term": "Jatamansi",
+    "variants": [
+      "Jatamansi",
+      "jatamansi"
+    ],
+    "type": "formulation",
+    "hindi": "Jatamansi"
+  },
+  {
+    "term": "Shankhpushpi Syrup",
+    "variants": [
+      "Shankhpushpi Syrup",
+      "shankhpushpi syrup"
+    ],
+    "type": "formulation",
+    "hindi": "Shankhpushpi Syrup"
+  },
+  {
+    "term": "Smritisagar Rasa",
+    "variants": [
+      "Smritisagar Rasa",
+      "smritisagar rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Smritisagar Rasa"
+  },
+  {
+    "term": "Unmadagajakesari Rasa",
+    "variants": [
+      "Unmadagajakesari Rasa",
+      "unmadagajakesari rasa"
+    ],
+    "type": "formulation",
+    "hindi": "Unmadagajakesari Rasa"
+  },
+  {
+    "term": "Manasamitra Vatakam",
+    "variants": [
+      "Manasamitra Vatakam",
+      "manasamitra vatakam"
+    ],
+    "type": "formulation",
+    "hindi": "Manasamitra Vatakam"
+  },
+  {
+    "term": "Brahmi Ghrita",
+    "variants": [
+      "Brahmi Ghrita",
+      "brahmi ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Brahmi Ghrita"
+  },
+  {
+    "term": "Kalyanaka Ghrita",
+    "variants": [
+      "Kalyanaka Ghrita",
+      "kalyanaka ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Kalyanaka Ghrita"
+  },
+  {
+    "term": "Panchagavya Ghrita",
+    "variants": [
+      "Panchagavya Ghrita",
+      "panchagavya ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Panchagavya Ghrita"
+  },
+  {
+    "term": "Sarpagandha Churna",
+    "variants": [
+      "Sarpagandha Churna",
+      "sarpagandha churna"
+    ],
+    "type": "formulation",
+    "hindi": "Sarpagandha Churna"
+  },
+  {
+    "term": "Tagara",
+    "variants": [
+      "Tagara",
+      "tagara"
+    ],
+    "type": "formulation",
+    "hindi": "Tagara"
+  },
+  {
+    "term": "Vacha",
+    "variants": [
+      "Vacha",
+      "vacha"
+    ],
+    "type": "formulation",
+    "hindi": "Vacha"
+  },
+  {
+    "term": "Jyotishmati",
+    "variants": [
+      "Jyotishmati",
+      "jyotishmati"
+    ],
+    "type": "formulation",
+    "hindi": "Jyotishmati"
+  },
+  {
+    "term": "Ashokarishta",
+    "variants": [
+      "Ashokarishta",
+      "ashokarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Ashokarishta"
+  },
+  {
+    "term": "Lodhrasava",
+    "variants": [
+      "Lodhrasava",
+      "lodhrasava"
+    ],
+    "type": "formulation",
+    "hindi": "Lodhrasava"
+  },
+  {
+    "term": "Dashmoolarishta",
+    "variants": [
+      "Dashmoolarishta",
+      "dashmoolarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Dashmoolarishta"
+  },
+  {
+    "term": "Pushyanuga Churna",
+    "variants": [
+      "Pushyanuga Churna",
+      "pushyanuga churna"
+    ],
+    "type": "formulation",
+    "hindi": "Pushyanuga Churna"
+  },
+  {
+    "term": "Phalaghrita",
+    "variants": [
+      "Phalaghrita",
+      "phalaghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Phalaghrita"
+  },
+  {
+    "term": "Shatavari Churna",
+    "variants": [
+      "Shatavari Churna",
+      "shatavari churna"
+    ],
+    "type": "formulation",
+    "hindi": "Shatavari Churna"
+  },
+  {
+    "term": "Kumaryasava",
+    "variants": [
+      "Kumaryasava",
+      "kumaryasava"
+    ],
+    "type": "formulation",
+    "hindi": "Kumaryasava"
+  },
+  {
+    "term": "Rajapravartini Vati",
+    "variants": [
+      "Rajapravartini Vati",
+      "rajapravartini vati"
+    ],
+    "type": "formulation",
+    "hindi": "Rajapravartini Vati"
+  },
+  {
+    "term": "Sukumara Kashaya",
+    "variants": [
+      "Sukumara Kashaya",
+      "sukumara kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Sukumara Kashaya"
+  },
+  {
+    "term": "Dhatri Loha",
+    "variants": [
+      "Dhatri Loha",
+      "dhatri loha"
+    ],
+    "type": "formulation",
+    "hindi": "Dhatri Loha"
+  },
+  {
+    "term": "Saubhagya Shunthi",
+    "variants": [
+      "Saubhagya Shunthi",
+      "saubhagya shunthi"
+    ],
+    "type": "formulation",
+    "hindi": "Saubhagya Shunthi"
+  },
+  {
+    "term": "Chandraprabha",
+    "variants": [
+      "Chandraprabha",
+      "chandraprabha"
+    ],
+    "type": "formulation",
+    "hindi": "Chandraprabha"
+  },
+  {
+    "term": "Shatpushpa Churna",
+    "variants": [
+      "Shatpushpa Churna",
+      "shatpushpa churna"
+    ],
+    "type": "formulation",
+    "hindi": "Shatpushpa Churna"
+  },
+  {
+    "term": "Phalasarpis",
+    "variants": [
+      "Phalasarpis",
+      "phalasarpis"
+    ],
+    "type": "formulation",
+    "hindi": "Phalasarpis"
+  },
+  {
+    "term": "Draksharishta",
+    "variants": [
+      "Draksharishta",
+      "draksharishta"
+    ],
+    "type": "formulation",
+    "hindi": "Draksharishta"
+  },
+  {
+    "term": "Ashwagandhadi Lehya",
+    "variants": [
+      "Ashwagandhadi Lehya",
+      "ashwagandhadi lehya"
+    ],
+    "type": "formulation",
+    "hindi": "Ashwagandhadi Lehya"
+  },
+  {
+    "term": "Kushmanda Avaleha",
+    "variants": [
+      "Kushmanda Avaleha",
+      "kushmanda avaleha"
+    ],
+    "type": "formulation",
+    "hindi": "Kushmanda Avaleha"
+  },
+  {
+    "term": "Musli Pak",
+    "variants": [
+      "Musli Pak",
+      "musli pak"
+    ],
+    "type": "formulation",
+    "hindi": "Musli Pak"
+  },
+  {
+    "term": "Shatavari Kalpa",
+    "variants": [
+      "Shatavari Kalpa",
+      "shatavari kalpa"
+    ],
+    "type": "formulation",
+    "hindi": "Shatavari Kalpa"
+  },
+  {
+    "term": "Amritaprash",
+    "variants": [
+      "Amritaprash",
+      "amritaprash"
+    ],
+    "type": "formulation",
+    "hindi": "Amritaprash"
+  },
+  {
+    "term": "Bala Rasayana",
+    "variants": [
+      "Bala Rasayana",
+      "bala rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Bala Rasayana"
+  },
+  {
+    "term": "Agastya Rasayana",
+    "variants": [
+      "Agastya Rasayana",
+      "agastya rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Agastya Rasayana"
+  },
+  {
+    "term": "Narasimha Rasayana",
+    "variants": [
+      "Narasimha Rasayana",
+      "narasimha rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Narasimha Rasayana"
+  },
+  {
+    "term": "Brahma Rasayana",
+    "variants": [
+      "Brahma Rasayana",
+      "brahma rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Brahma Rasayana"
+  },
+  {
+    "term": "Amalaki Rasayana",
+    "variants": [
+      "Amalaki Rasayana",
+      "amalaki rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Amalaki Rasayana"
+  },
+  {
+    "term": "Dhatri Rasayana",
+    "variants": [
+      "Dhatri Rasayana",
+      "dhatri rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Dhatri Rasayana"
+  },
+  {
+    "term": "Shilajit Rasayana",
+    "variants": [
+      "Shilajit Rasayana",
+      "shilajit rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Shilajit Rasayana"
+  },
+  {
+    "term": "Loha Rasayana",
+    "variants": [
+      "Loha Rasayana",
+      "loha rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Loha Rasayana"
+  },
+  {
+    "term": "Trikatu Churna",
+    "variants": [
+      "Trikatu Churna",
+      "trikatu churna"
+    ],
+    "type": "formulation",
+    "hindi": "Trikatu Churna"
+  },
+  {
+    "term": "Shunthi Churna",
+    "variants": [
+      "Shunthi Churna",
+      "shunthi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Shunthi Churna"
+  },
+  {
+    "term": "Takra Kalpa",
+    "variants": [
+      "Takra Kalpa",
+      "takra kalpa"
+    ],
+    "type": "formulation",
+    "hindi": "Takra Kalpa"
+  },
+  {
+    "term": "Panchamrita Parpati",
+    "variants": [
+      "Panchamrita Parpati",
+      "panchamrita parpati"
+    ],
+    "type": "formulation",
+    "hindi": "Panchamrita Parpati"
+  },
+  {
+    "term": "Kutaja Parpati",
+    "variants": [
+      "Kutaja Parpati",
+      "kutaja parpati"
+    ],
+    "type": "formulation",
+    "hindi": "Kutaja Parpati"
+  },
+  {
+    "term": "Chitrak Haritaki",
+    "variants": [
+      "Chitrak Haritaki",
+      "chitrak haritaki"
+    ],
+    "type": "formulation",
+    "hindi": "Chitrak Haritaki"
+  },
+  {
+    "term": "Haritakyadi Churna",
+    "variants": [
+      "Haritakyadi Churna",
+      "haritakyadi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Haritakyadi Churna"
+  },
+  {
+    "term": "Dadimashtaka Churna",
+    "variants": [
+      "Dadimashtaka Churna",
+      "dadimashtaka churna"
+    ],
+    "type": "formulation",
+    "hindi": "Dadimashtaka Churna"
+  },
+  {
+    "term": "Mahayogaraja Guggulu",
+    "variants": [
+      "Mahayogaraja Guggulu",
+      "mahayogaraja guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Mahayogaraja Guggulu"
+  },
+  {
+    "term": "Ksheerabala Taila",
+    "variants": [
+      "Ksheerabala Taila",
+      "ksheerabala taila"
+    ],
+    "type": "formulation",
+    "hindi": "Ksheerabala Taila"
+  },
+  {
+    "term": "Narayana Taila",
+    "variants": [
+      "Narayana Taila",
+      "narayana taila"
+    ],
+    "type": "formulation",
+    "hindi": "Narayana Taila"
+  },
+  {
+    "term": "Masha Taila",
+    "variants": [
+      "Masha Taila",
+      "masha taila"
+    ],
+    "type": "formulation",
+    "hindi": "Masha Taila"
+  },
+  {
+    "term": "Arjunarishta",
+    "variants": [
+      "Arjunarishta",
+      "arjunarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Arjunarishta"
+  },
+  {
+    "term": "Punarnavarishta",
+    "variants": [
+      "Punarnavarishta",
+      "punarnavarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Punarnavarishta"
+  },
+  {
+    "term": "Guduchi Ghana Vati",
+    "variants": [
+      "Guduchi Ghana Vati",
+      "guduchi ghana vati"
+    ],
+    "type": "formulation",
+    "hindi": "Guduchi Ghana Vati"
+  },
+  {
+    "term": "Shilajitwadi Vati",
+    "variants": [
+      "Shilajitwadi Vati",
+      "shilajitwadi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Shilajitwadi Vati"
+  },
+  {
+    "term": "Arjuna Ksheerapaka",
+    "variants": [
+      "Arjuna Ksheerapaka",
+      "arjuna ksheerapaka"
+    ],
+    "type": "formulation",
+    "hindi": "Arjuna Ksheerapaka"
+  },
+  {
+    "term": "Lavangadi Vati",
+    "variants": [
+      "Lavangadi Vati",
+      "lavangadi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Lavangadi Vati"
+  },
+  {
+    "term": "Khadiradi Vati",
+    "variants": [
+      "Khadiradi Vati",
+      "khadiradi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Khadiradi Vati"
+  },
+  {
+    "term": "Eladi Vati",
+    "variants": [
+      "Eladi Vati",
+      "eladi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Eladi Vati"
+  },
+  {
+    "term": "Vasa Ghrita",
+    "variants": [
+      "Vasa Ghrita",
+      "vasa ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Vasa Ghrita"
+  },
+  {
+    "term": "Sitopaladi Vati",
+    "variants": [
+      "Sitopaladi Vati",
+      "sitopaladi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Sitopaladi Vati"
+  },
+  {
+    "term": "Chandraprabha Guggulu",
+    "variants": [
+      "Chandraprabha Guggulu",
+      "chandraprabha guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Chandraprabha Guggulu"
+  },
+  {
+    "term": "Varunadi Guggulu",
+    "variants": [
+      "Varunadi Guggulu",
+      "varunadi guggulu"
+    ],
+    "type": "formulation",
+    "hindi": "Varunadi Guggulu"
+  },
+  {
+    "term": "Gokshuradi Churna",
+    "variants": [
+      "Gokshuradi Churna",
+      "gokshuradi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Gokshuradi Churna"
+  },
+  {
+    "term": "Punarnava Churna",
+    "variants": [
+      "Punarnava Churna",
+      "punarnava churna"
+    ],
+    "type": "formulation",
+    "hindi": "Punarnava Churna"
+  },
+  {
+    "term": "Shilajitadi Vati",
+    "variants": [
+      "Shilajitadi Vati",
+      "shilajitadi vati"
+    ],
+    "type": "formulation",
+    "hindi": "Shilajitadi Vati"
+  },
+  {
+    "term": "Amrutottara Kashaya",
+    "variants": [
+      "Amrutottara Kashaya",
+      "amrutottara kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Amrutottara Kashaya"
+  },
+  {
+    "term": "Mustakarishta",
+    "variants": [
+      "Mustakarishta",
+      "mustakarishta"
+    ],
+    "type": "formulation",
+    "hindi": "Mustakarishta"
+  },
+  {
+    "term": "Parpatadi Kwatha",
+    "variants": [
+      "Parpatadi Kwatha",
+      "parpatadi kwatha"
+    ],
+    "type": "formulation",
+    "hindi": "Parpatadi Kwatha"
+  },
+  {
+    "term": "Kiratatiktadi Kwatha",
+    "variants": [
+      "Kiratatiktadi Kwatha",
+      "kiratatiktadi kwatha"
+    ],
+    "type": "formulation",
+    "hindi": "Kiratatiktadi Kwatha"
+  },
+  {
+    "term": "Nimbadi Taila",
+    "variants": [
+      "Nimbadi Taila",
+      "nimbadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Nimbadi Taila"
+  },
+  {
+    "term": "Karanjadi Taila",
+    "variants": [
+      "Karanjadi Taila",
+      "karanjadi taila"
+    ],
+    "type": "formulation",
+    "hindi": "Karanjadi Taila"
+  },
+  {
+    "term": "Mahatiktaka Ghrita",
+    "variants": [
+      "Mahatiktaka Ghrita",
+      "mahatiktaka ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Mahatiktaka Ghrita"
+  },
+  {
+    "term": "Aragwadhadi Kashaya",
+    "variants": [
+      "Aragwadhadi Kashaya",
+      "aragwadhadi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Aragwadhadi Kashaya"
+  },
+  {
+    "term": "Khadiradi Kashaya",
+    "variants": [
+      "Khadiradi Kashaya",
+      "khadiradi kashaya"
+    ],
+    "type": "formulation",
+    "hindi": "Khadiradi Kashaya"
+  },
+  {
+    "term": "Medhya Rasayana",
+    "variants": [
+      "Medhya Rasayana",
+      "medhya rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Medhya Rasayana"
+  },
+  {
+    "term": "Brahmi Rasayana",
+    "variants": [
+      "Brahmi Rasayana",
+      "brahmi rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Brahmi Rasayana"
+  },
+  {
+    "term": "Saraswata Churna",
+    "variants": [
+      "Saraswata Churna",
+      "saraswata churna"
+    ],
+    "type": "formulation",
+    "hindi": "Saraswata Churna"
+  },
+  {
+    "term": "Ashwagandha Lehya",
+    "variants": [
+      "Ashwagandha Lehya",
+      "ashwagandha lehya"
+    ],
+    "type": "formulation",
+    "hindi": "Ashwagandha Lehya"
+  },
+  {
+    "term": "Jatamansi Churna",
+    "variants": [
+      "Jatamansi Churna",
+      "jatamansi churna"
+    ],
+    "type": "formulation",
+    "hindi": "Jatamansi Churna"
+  },
+  {
+    "term": "Shatavari Ghrita",
+    "variants": [
+      "Shatavari Ghrita",
+      "shatavari ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Shatavari Ghrita"
+  },
+  {
+    "term": "Phala Ghrita",
+    "variants": [
+      "Phala Ghrita",
+      "phala ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Phala Ghrita"
+  },
+  {
+    "term": "Sukumara Ghrita",
+    "variants": [
+      "Sukumara Ghrita",
+      "sukumara ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Sukumara Ghrita"
+  },
+  {
+    "term": "Ashoka Ghrita",
+    "variants": [
+      "Ashoka Ghrita",
+      "ashoka ghrita"
+    ],
+    "type": "formulation",
+    "hindi": "Ashoka Ghrita"
+  },
+  {
+    "term": "Amalaki Lehya",
+    "variants": [
+      "Amalaki Lehya",
+      "amalaki lehya"
+    ],
+    "type": "formulation",
+    "hindi": "Amalaki Lehya"
+  },
+  {
+    "term": "Pippali Rasayana",
+    "variants": [
+      "Pippali Rasayana",
+      "pippali rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Pippali Rasayana"
+  },
+  {
+    "term": "Dhatryadi Lehya",
+    "variants": [
+      "Dhatryadi Lehya",
+      "dhatryadi lehya"
+    ],
+    "type": "formulation",
+    "hindi": "Dhatryadi Lehya"
+  },
+  {
+    "term": "Baladi Rasayana",
+    "variants": [
+      "Baladi Rasayana",
+      "baladi rasayana"
+    ],
+    "type": "formulation",
+    "hindi": "Baladi Rasayana"
+  },
+  {
+    "term": "Abhyanga",
+    "variants": [
+      "abhyanga"
+    ],
+    "type": "modality",
+    "hindi": "Abhyanga"
+  },
+  {
+    "term": "Basti",
+    "variants": [
+      "basti"
+    ],
+    "type": "modality",
+    "hindi": "Basti"
+  },
+  {
+    "term": "Nasya",
+    "variants": [
+      "nasya"
+    ],
+    "type": "modality",
+    "hindi": "Nasya"
+  },
+  {
+    "term": "Vamana",
+    "variants": [
+      "vamana"
+    ],
+    "type": "modality",
+    "hindi": "Vamana"
+  },
+  {
+    "term": "Virechana",
+    "variants": [
+      "virechana"
+    ],
+    "type": "modality",
+    "hindi": "Virechana"
+  },
+  {
+    "term": "Raktamokshana",
+    "variants": [
+      "raktamokshana"
+    ],
+    "type": "modality",
+    "hindi": "Raktamokshana"
+  },
+  {
+    "term": "Shirodhara",
+    "variants": [
+      "shirodhara"
+    ],
+    "type": "modality",
+    "hindi": "Shirodhara"
+  },
+  {
+    "term": "Lepana",
+    "variants": [
+      "lepana"
+    ],
+    "type": "modality",
+    "hindi": "Lepana"
+  },
+  {
+    "term": "Swedana",
+    "variants": [
+      "swedana"
+    ],
+    "type": "modality",
+    "hindi": "Swedana"
+  },
+  {
+    "term": "Rasayana",
+    "variants": [
+      "rasayana"
+    ],
+    "type": "modality",
+    "hindi": "Rasayana"
+  },
+  {
+    "term": "Pathya",
+    "variants": [
+      "pathya"
+    ],
+    "type": "modality",
+    "hindi": "Pathya"
+  },
+  {
+    "term": "Apathya",
+    "variants": [
+      "apathya"
+    ],
+    "type": "modality",
+    "hindi": "Apathya"
+  },
+  {
+    "term": "Anupana",
+    "variants": [
+      "anupana"
+    ],
+    "type": "modality",
+    "hindi": "Anupana"
+  },
+  {
+    "term": "Aahara",
+    "variants": [
+      "aahara"
+    ],
+    "type": "modality",
+    "hindi": "Aahara"
+  },
+  {
+    "term": "Vihara",
+    "variants": [
+      "vihara"
+    ],
+    "type": "modality",
+    "hindi": "Vihara"
+  },
+  {
+    "term": "Dinacharya",
+    "variants": [
+      "dinacharya"
+    ],
+    "type": "modality",
+    "hindi": "Dinacharya"
+  },
+  {
+    "term": "Ritucharya",
+    "variants": [
+      "ritucharya"
+    ],
+    "type": "modality",
+    "hindi": "Ritucharya"
+  },
+  {
+    "term": "Srotas",
+    "variants": [
+      "srotas"
+    ],
+    "type": "modality",
+    "hindi": "Srotas"
+  },
+  {
+    "term": "Agni",
+    "variants": [
+      "agni"
+    ],
+    "type": "modality",
+    "hindi": "Agni"
+  },
+  {
+    "term": "Ama",
+    "variants": [
+      "ama"
+    ],
+    "type": "modality",
+    "hindi": "Ama"
+  },
+  {
+    "term": "Nidana",
+    "variants": [
+      "nidana"
+    ],
+    "type": "modality",
+    "hindi": "Nidana"
+  },
+  {
+    "term": "Lakshana",
+    "variants": [
+      "lakshana"
+    ],
+    "type": "modality",
+    "hindi": "Lakshana"
+  },
+  {
+    "term": "Samprapti",
+    "variants": [
+      "samprapti"
+    ],
+    "type": "modality",
+    "hindi": "Samprapti"
+  },
+  {
+    "term": "Roga",
+    "variants": [
+      "roga"
+    ],
+    "type": "modality",
+    "hindi": "Roga"
+  },
+  {
+    "term": "Rogi",
+    "variants": [
+      "rogi"
+    ],
+    "type": "modality",
+    "hindi": "Rogi"
+  },
+  {
+    "term": "Dhatu",
+    "variants": [
+      "dhatu"
+    ],
+    "type": "modality",
+    "hindi": "Dhatu"
+  },
+  {
+    "term": "Mala",
+    "variants": [
+      "mala"
+    ],
+    "type": "modality",
+    "hindi": "Mala"
+  },
+  {
+    "term": "Ojas",
+    "variants": [
+      "ojas"
+    ],
+    "type": "modality",
+    "hindi": "Ojas"
+  },
+  {
+    "term": "Prana",
+    "variants": [
+      "prana"
+    ],
+    "type": "modality",
+    "hindi": "Prana"
+  },
+  {
+    "term": "Tejas",
+    "variants": [
+      "tejas"
+    ],
+    "type": "modality",
+    "hindi": "Tejas"
+  },
+  {
+    "term": "Hridaya",
+    "variants": [
+      "hridaya"
+    ],
+    "type": "modality",
+    "hindi": "Hridaya"
+  },
+  {
+    "term": "Yakrit",
+    "variants": [
+      "yakrit"
+    ],
+    "type": "modality",
+    "hindi": "Yakrit"
+  },
+  {
+    "term": "Pliha",
+    "variants": [
+      "pliha"
+    ],
+    "type": "modality",
+    "hindi": "Pliha"
+  },
+  {
+    "term": "Amasaya",
+    "variants": [
+      "amasaya"
+    ],
+    "type": "modality",
+    "hindi": "Amasaya"
+  },
+  {
+    "term": "Pakwashaya",
+    "variants": [
+      "pakwashaya"
+    ],
+    "type": "modality",
+    "hindi": "Pakwashaya"
+  },
+  {
+    "term": "Pranavaha Srotas",
+    "variants": [
+      "pranavaha srotas"
+    ],
+    "type": "modality",
+    "hindi": "Pranavaha Srotas"
+  },
+  {
+    "term": "Annavaha Srotas",
+    "variants": [
+      "annavaha srotas"
+    ],
+    "type": "modality",
+    "hindi": "Annavaha Srotas"
+  },
+  {
+    "term": "Raktavaha Srotas",
+    "variants": [
+      "raktavaha srotas"
+    ],
+    "type": "modality",
+    "hindi": "Raktavaha Srotas"
+  },
+  {
+    "term": "Mutravaha Srotas",
+    "variants": [
+      "mutravaha srotas"
+    ],
+    "type": "modality",
+    "hindi": "Mutravaha Srotas"
+  },
+  {
+    "term": "Asthi",
+    "variants": [
+      "asthi"
+    ],
+    "type": "modality",
+    "hindi": "Asthi"
+  },
+  {
+    "term": "Majja",
+    "variants": [
+      "majja"
+    ],
+    "type": "modality",
+    "hindi": "Majja"
+  },
+  {
+    "term": "Mamsa",
+    "variants": [
+      "mamsa"
+    ],
+    "type": "modality",
+    "hindi": "Mamsa"
+  },
+  {
+    "term": "Rasa Dhatu",
+    "variants": [
+      "rasa dhatu"
+    ],
+    "type": "modality",
+    "hindi": "Rasa Dhatu"
+  },
+  {
+    "term": "Rakta Dhatu",
+    "variants": [
+      "rakta dhatu"
+    ],
+    "type": "modality",
+    "hindi": "Rakta Dhatu"
+  },
+  {
+    "term": "Meda Dhatu",
+    "variants": [
+      "meda dhatu"
+    ],
+    "type": "modality",
+    "hindi": "Meda Dhatu"
+  },
+  {
+    "term": "Shukra Dhatu",
+    "variants": [
+      "shukra dhatu"
+    ],
+    "type": "modality",
+    "hindi": "Shukra Dhatu"
+  },
+  {
+    "term": "Nadi",
+    "variants": [
+      "nadi"
+    ],
+    "type": "modality",
+    "hindi": "Nadi"
+  },
+  {
+    "term": "Triphala",
+    "variants": [
+      "triphala"
+    ],
+    "type": "formulation_component",
+    "hindi": "Triphala"
+  },
+  {
+    "term": "Churna",
+    "variants": [
+      "churna"
+    ],
+    "type": "formulation_component",
+    "hindi": "Churna"
+  },
+  {
+    "term": "Avipattikar",
+    "variants": [
+      "avipattikar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Avipattikar"
+  },
+  {
+    "term": "Eranda",
+    "variants": [
+      "eranda"
+    ],
+    "type": "formulation_component",
+    "hindi": "Eranda"
+  },
+  {
+    "term": "Bhrushta",
+    "variants": [
+      "bhrushta"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bhrushta"
+  },
+  {
+    "term": "Haritaki",
+    "variants": [
+      "haritaki"
+    ],
+    "type": "formulation_component",
+    "hindi": "Haritaki"
+  },
+  {
+    "term": "Hingwashtaka",
+    "variants": [
+      "hingwashtaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Hingwashtaka"
+  },
+  {
+    "term": "Shankha",
+    "variants": [
+      "shankha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shankha"
+  },
+  {
+    "term": "Vati",
+    "variants": [
+      "vati"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vati"
+  },
+  {
+    "term": "Sutashekhar",
+    "variants": [
+      "sutashekhar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sutashekhar"
+  },
+  {
+    "term": "Rasa",
+    "variants": [
+      "rasa"
+    ],
+    "type": "formulation_component",
+    "hindi": "Rasa"
+  },
+  {
+    "term": "Kamdudha",
+    "variants": [
+      "kamdudha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kamdudha"
+  },
+  {
+    "term": "Praval",
+    "variants": [
+      "praval"
+    ],
+    "type": "formulation_component",
+    "hindi": "Praval"
+  },
+  {
+    "term": "Panchamrit",
+    "variants": [
+      "panchamrit"
+    ],
+    "type": "formulation_component",
+    "hindi": "Panchamrit"
+  },
+  {
+    "term": "Chitrakadi",
+    "variants": [
+      "chitrakadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Chitrakadi"
+  },
+  {
+    "term": "Lavanbhaskar",
+    "variants": [
+      "lavanbhaskar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Lavanbhaskar"
+  },
+  {
+    "term": "Bhunimbadi",
+    "variants": [
+      "bhunimbadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bhunimbadi"
+  },
+  {
+    "term": "Kashaya",
+    "variants": [
+      "kashaya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kashaya"
+  },
+  {
+    "term": "Dadimadi",
+    "variants": [
+      "dadimadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dadimadi"
+  },
+  {
+    "term": "Ghrita",
+    "variants": [
+      "ghrita"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ghrita"
+  },
+  {
+    "term": "Bilvadi",
+    "variants": [
+      "bilvadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bilvadi"
+  },
+  {
+    "term": "Panchsakar",
+    "variants": [
+      "panchsakar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Panchsakar"
+  },
+  {
+    "term": "Kutajghan",
+    "variants": [
+      "kutajghan"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kutajghan"
+  },
+  {
+    "term": "Udumbara",
+    "variants": [
+      "udumbara"
+    ],
+    "type": "formulation_component",
+    "hindi": "Udumbara"
+  },
+  {
+    "term": "Jatiphaladi",
+    "variants": [
+      "jatiphaladi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Jatiphaladi"
+  },
+  {
+    "term": "Mustadi",
+    "variants": [
+      "mustadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mustadi"
+  },
+  {
+    "term": "Sanjeevani",
+    "variants": [
+      "sanjeevani"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sanjeevani"
+  },
+  {
+    "term": "Yogaraja",
+    "variants": [
+      "yogaraja"
+    ],
+    "type": "formulation_component",
+    "hindi": "Yogaraja"
+  },
+  {
+    "term": "Guggulu",
+    "variants": [
+      "guggulu"
+    ],
+    "type": "formulation_component",
+    "hindi": "Guggulu"
+  },
+  {
+    "term": "Maharasnadi",
+    "variants": [
+      "maharasnadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Maharasnadi"
+  },
+  {
+    "term": "Dashamoola",
+    "variants": [
+      "dashamoola"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dashamoola"
+  },
+  {
+    "term": "Simhanada",
+    "variants": [
+      "simhanada"
+    ],
+    "type": "formulation_component",
+    "hindi": "Simhanada"
+  },
+  {
+    "term": "Ashwagandha",
+    "variants": [
+      "ashwagandha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ashwagandha"
+  },
+  {
+    "term": "Bala",
+    "variants": [
+      "bala"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bala"
+  },
+  {
+    "term": "Taila",
+    "variants": [
+      "taila"
+    ],
+    "type": "formulation_component",
+    "hindi": "Taila"
+  },
+  {
+    "term": "Vishgarbha",
+    "variants": [
+      "vishgarbha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vishgarbha"
+  },
+  {
+    "term": "Kottamchukkadi",
+    "variants": [
+      "kottamchukkadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kottamchukkadi"
+  },
+  {
+    "term": "Rasnasaptak",
+    "variants": [
+      "rasnasaptak"
+    ],
+    "type": "formulation_component",
+    "hindi": "Rasnasaptak"
+  },
+  {
+    "term": "Brihat",
+    "variants": [
+      "brihat"
+    ],
+    "type": "formulation_component",
+    "hindi": "Brihat"
+  },
+  {
+    "term": "Chintamani",
+    "variants": [
+      "chintamani"
+    ],
+    "type": "formulation_component",
+    "hindi": "Chintamani"
+  },
+  {
+    "term": "Rasna",
+    "variants": [
+      "rasna"
+    ],
+    "type": "formulation_component",
+    "hindi": "Rasna"
+  },
+  {
+    "term": "Saptak",
+    "variants": [
+      "saptak"
+    ],
+    "type": "formulation_component",
+    "hindi": "Saptak"
+  },
+  {
+    "term": "Kwath",
+    "variants": [
+      "kwath"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kwath"
+  },
+  {
+    "term": "Mahavishagarbha",
+    "variants": [
+      "mahavishagarbha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mahavishagarbha"
+  },
+  {
+    "term": "Prasarini",
+    "variants": [
+      "prasarini"
+    ],
+    "type": "formulation_component",
+    "hindi": "Prasarini"
+  },
+  {
+    "term": "Sahacharadi",
+    "variants": [
+      "sahacharadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sahacharadi"
+  },
+  {
+    "term": "Dhanwantharam",
+    "variants": [
+      "dhanwantharam"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dhanwantharam"
+  },
+  {
+    "term": "Nirgundi",
+    "variants": [
+      "nirgundi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Nirgundi"
+  },
+  {
+    "term": "Maha",
+    "variants": [
+      "maha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Maha"
+  },
+  {
+    "term": "Narayana",
+    "variants": [
+      "narayana"
+    ],
+    "type": "formulation_component",
+    "hindi": "Narayana"
+  },
+  {
+    "term": "Trayodashanga",
+    "variants": [
+      "trayodashanga"
+    ],
+    "type": "formulation_component",
+    "hindi": "Trayodashanga"
+  },
+  {
+    "term": "Ekangaveer",
+    "variants": [
+      "ekangaveer"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ekangaveer"
+  },
+  {
+    "term": "Medohar",
+    "variants": [
+      "medohar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Medohar"
+  },
+  {
+    "term": "Punarnava",
+    "variants": [
+      "punarnava"
+    ],
+    "type": "formulation_component",
+    "hindi": "Punarnava"
+  },
+  {
+    "term": "Mandoor",
+    "variants": [
+      "mandoor"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mandoor"
+  },
+  {
+    "term": "Sarpagandha",
+    "variants": [
+      "sarpagandha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sarpagandha"
+  },
+  {
+    "term": "Varunadi",
+    "variants": [
+      "varunadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Varunadi"
+  },
+  {
+    "term": "Asanadi",
+    "variants": [
+      "asanadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Asanadi"
+  },
+  {
+    "term": "Kataka",
+    "variants": [
+      "kataka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kataka"
+  },
+  {
+    "term": "Khadiradi",
+    "variants": [
+      "khadiradi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Khadiradi"
+  },
+  {
+    "term": "Dhanvantari",
+    "variants": [
+      "dhanvantari"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dhanvantari"
+  },
+  {
+    "term": "Gutika",
+    "variants": [
+      "gutika"
+    ],
+    "type": "formulation_component",
+    "hindi": "Gutika"
+  },
+  {
+    "term": "Navayasa",
+    "variants": [
+      "navayasa"
+    ],
+    "type": "formulation_component",
+    "hindi": "Navayasa"
+  },
+  {
+    "term": "Loha",
+    "variants": [
+      "loha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Loha"
+  },
+  {
+    "term": "Vidangadi",
+    "variants": [
+      "vidangadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vidangadi"
+  },
+  {
+    "term": "Guggulutiktaka",
+    "variants": [
+      "guggulutiktaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Guggulutiktaka"
+  },
+  {
+    "term": "Amritadi",
+    "variants": [
+      "amritadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Amritadi"
+  },
+  {
+    "term": "Kanchanar",
+    "variants": [
+      "kanchanar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kanchanar"
+  },
+  {
+    "term": "Vyoshadi",
+    "variants": [
+      "vyoshadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vyoshadi"
+  },
+  {
+    "term": "Sitopaladi",
+    "variants": [
+      "sitopaladi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sitopaladi"
+  },
+  {
+    "term": "Talisadi",
+    "variants": [
+      "talisadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Talisadi"
+  },
+  {
+    "term": "Kantakari",
+    "variants": [
+      "kantakari"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kantakari"
+  },
+  {
+    "term": "Avaleha",
+    "variants": [
+      "avaleha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Avaleha"
+  },
+  {
+    "term": "Agastya",
+    "variants": [
+      "agastya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Agastya"
+  },
+  {
+    "term": "Katutrayadi",
+    "variants": [
+      "katutrayadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Katutrayadi"
+  },
+  {
+    "term": "Haridra",
+    "variants": [
+      "haridra"
+    ],
+    "type": "formulation_component",
+    "hindi": "Haridra"
+  },
+  {
+    "term": "Khanda",
+    "variants": [
+      "khanda"
+    ],
+    "type": "formulation_component",
+    "hindi": "Khanda"
+  },
+  {
+    "term": "Lakshmi",
+    "variants": [
+      "lakshmi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Lakshmi"
+  },
+  {
+    "term": "Vilas",
+    "variants": [
+      "vilas"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vilas"
+  },
+  {
+    "term": "Tribhuvankirti",
+    "variants": [
+      "tribhuvankirti"
+    ],
+    "type": "formulation_component",
+    "hindi": "Tribhuvankirti"
+  },
+  {
+    "term": "Bharangyadi",
+    "variants": [
+      "bharangyadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bharangyadi"
+  },
+  {
+    "term": "Mahalakshmivilas",
+    "variants": [
+      "mahalakshmivilas"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mahalakshmivilas"
+  },
+  {
+    "term": "Shwaskuthar",
+    "variants": [
+      "shwaskuthar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shwaskuthar"
+  },
+  {
+    "term": "Gokshuradi",
+    "variants": [
+      "gokshuradi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Gokshuradi"
+  },
+  {
+    "term": "Punarnavadi",
+    "variants": [
+      "punarnavadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Punarnavadi"
+  },
+  {
+    "term": "Shveta",
+    "variants": [
+      "shveta"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shveta"
+  },
+  {
+    "term": "Parpati",
+    "variants": [
+      "parpati"
+    ],
+    "type": "formulation_component",
+    "hindi": "Parpati"
+  },
+  {
+    "term": "Trivikrama",
+    "variants": [
+      "trivikrama"
+    ],
+    "type": "formulation_component",
+    "hindi": "Trivikrama"
+  },
+  {
+    "term": "Hajrul",
+    "variants": [
+      "hajrul"
+    ],
+    "type": "formulation_component",
+    "hindi": "Hajrul"
+  },
+  {
+    "term": "Yahud",
+    "variants": [
+      "yahud"
+    ],
+    "type": "formulation_component",
+    "hindi": "Yahud"
+  },
+  {
+    "term": "Bhasma",
+    "variants": [
+      "bhasma"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bhasma"
+  },
+  {
+    "term": "Ushiradi",
+    "variants": [
+      "ushiradi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ushiradi"
+  },
+  {
+    "term": "Eladi",
+    "variants": [
+      "eladi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Eladi"
+  },
+  {
+    "term": "Gokshura",
+    "variants": [
+      "gokshura"
+    ],
+    "type": "formulation_component",
+    "hindi": "Gokshura"
+  },
+  {
+    "term": "Shilajatu",
+    "variants": [
+      "shilajatu"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shilajatu"
+  },
+  {
+    "term": "Sudarshana",
+    "variants": [
+      "sudarshana"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sudarshana"
+  },
+  {
+    "term": "Mahasudarshan",
+    "variants": [
+      "mahasudarshan"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mahasudarshan"
+  },
+  {
+    "term": "Satva",
+    "variants": [
+      "satva"
+    ],
+    "type": "formulation_component",
+    "hindi": "Satva"
+  },
+  {
+    "term": "Mritunjay",
+    "variants": [
+      "mritunjay"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mritunjay"
+  },
+  {
+    "term": "Ananda",
+    "variants": [
+      "ananda"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ananda"
+  },
+  {
+    "term": "Bhairava",
+    "variants": [
+      "bhairava"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bhairava"
+  },
+  {
+    "term": "Godanti",
+    "variants": [
+      "godanti"
+    ],
+    "type": "formulation_component",
+    "hindi": "Godanti"
+  },
+  {
+    "term": "Jwarnashak",
+    "variants": [
+      "jwarnashak"
+    ],
+    "type": "formulation_component",
+    "hindi": "Jwarnashak"
+  },
+  {
+    "term": "Shadanga",
+    "variants": [
+      "shadanga"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shadanga"
+  },
+  {
+    "term": "Paniya",
+    "variants": [
+      "paniya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Paniya"
+  },
+  {
+    "term": "Panchanimba",
+    "variants": [
+      "panchanimba"
+    ],
+    "type": "formulation_component",
+    "hindi": "Panchanimba"
+  },
+  {
+    "term": "Samshamani",
+    "variants": [
+      "samshamani"
+    ],
+    "type": "formulation_component",
+    "hindi": "Samshamani"
+  },
+  {
+    "term": "Laxmivilas",
+    "variants": [
+      "laxmivilas"
+    ],
+    "type": "formulation_component",
+    "hindi": "Laxmivilas"
+  },
+  {
+    "term": "Parijat",
+    "variants": [
+      "parijat"
+    ],
+    "type": "formulation_component",
+    "hindi": "Parijat"
+  },
+  {
+    "term": "Mahamanjishthadi",
+    "variants": [
+      "mahamanjishthadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mahamanjishthadi"
+  },
+  {
+    "term": "Gandhaka",
+    "variants": [
+      "gandhaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Gandhaka"
+  },
+  {
+    "term": "Guduchyadi",
+    "variants": [
+      "guduchyadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Guduchyadi"
+  },
+  {
+    "term": "Panchatikta",
+    "variants": [
+      "panchatikta"
+    ],
+    "type": "formulation_component",
+    "hindi": "Panchatikta"
+  },
+  {
+    "term": "Raktashodhak",
+    "variants": [
+      "raktashodhak"
+    ],
+    "type": "formulation_component",
+    "hindi": "Raktashodhak"
+  },
+  {
+    "term": "Bati",
+    "variants": [
+      "bati"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bati"
+  },
+  {
+    "term": "Neem",
+    "variants": [
+      "neem"
+    ],
+    "type": "formulation_component",
+    "hindi": "Neem"
+  },
+  {
+    "term": "Bakuchi",
+    "variants": [
+      "bakuchi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Bakuchi"
+  },
+  {
+    "term": "Jatyadi",
+    "variants": [
+      "jatyadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Jatyadi"
+  },
+  {
+    "term": "Kumkumadi",
+    "variants": [
+      "kumkumadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kumkumadi"
+  },
+  {
+    "term": "Marichadi",
+    "variants": [
+      "marichadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Marichadi"
+  },
+  {
+    "term": "Brahmi",
+    "variants": [
+      "brahmi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Brahmi"
+  },
+  {
+    "term": "Shankhpushpi",
+    "variants": [
+      "shankhpushpi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shankhpushpi"
+  },
+  {
+    "term": "Syrup",
+    "variants": [
+      "syrup"
+    ],
+    "type": "formulation_component",
+    "hindi": "Syrup"
+  },
+  {
+    "term": "Smritisagar",
+    "variants": [
+      "smritisagar"
+    ],
+    "type": "formulation_component",
+    "hindi": "Smritisagar"
+  },
+  {
+    "term": "Unmadagajakesari",
+    "variants": [
+      "unmadagajakesari"
+    ],
+    "type": "formulation_component",
+    "hindi": "Unmadagajakesari"
+  },
+  {
+    "term": "Manasamitra",
+    "variants": [
+      "manasamitra"
+    ],
+    "type": "formulation_component",
+    "hindi": "Manasamitra"
+  },
+  {
+    "term": "Vatakam",
+    "variants": [
+      "vatakam"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vatakam"
+  },
+  {
+    "term": "Kalyanaka",
+    "variants": [
+      "kalyanaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kalyanaka"
+  },
+  {
+    "term": "Panchagavya",
+    "variants": [
+      "panchagavya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Panchagavya"
+  },
+  {
+    "term": "Pushyanuga",
+    "variants": [
+      "pushyanuga"
+    ],
+    "type": "formulation_component",
+    "hindi": "Pushyanuga"
+  },
+  {
+    "term": "Shatavari",
+    "variants": [
+      "shatavari"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shatavari"
+  },
+  {
+    "term": "Rajapravartini",
+    "variants": [
+      "rajapravartini"
+    ],
+    "type": "formulation_component",
+    "hindi": "Rajapravartini"
+  },
+  {
+    "term": "Sukumara",
+    "variants": [
+      "sukumara"
+    ],
+    "type": "formulation_component",
+    "hindi": "Sukumara"
+  },
+  {
+    "term": "Dhatri",
+    "variants": [
+      "dhatri"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dhatri"
+  },
+  {
+    "term": "Saubhagya",
+    "variants": [
+      "saubhagya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Saubhagya"
+  },
+  {
+    "term": "Shunthi",
+    "variants": [
+      "shunthi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shunthi"
+  },
+  {
+    "term": "Shatpushpa",
+    "variants": [
+      "shatpushpa"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shatpushpa"
+  },
+  {
+    "term": "Ashwagandhadi",
+    "variants": [
+      "ashwagandhadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ashwagandhadi"
+  },
+  {
+    "term": "Lehya",
+    "variants": [
+      "lehya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Lehya"
+  },
+  {
+    "term": "Kushmanda",
+    "variants": [
+      "kushmanda"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kushmanda"
+  },
+  {
+    "term": "Musli",
+    "variants": [
+      "musli"
+    ],
+    "type": "formulation_component",
+    "hindi": "Musli"
+  },
+  {
+    "term": "Kalpa",
+    "variants": [
+      "kalpa"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kalpa"
+  },
+  {
+    "term": "Narasimha",
+    "variants": [
+      "narasimha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Narasimha"
+  },
+  {
+    "term": "Brahma",
+    "variants": [
+      "brahma"
+    ],
+    "type": "formulation_component",
+    "hindi": "Brahma"
+  },
+  {
+    "term": "Amalaki",
+    "variants": [
+      "amalaki"
+    ],
+    "type": "formulation_component",
+    "hindi": "Amalaki"
+  },
+  {
+    "term": "Trikatu",
+    "variants": [
+      "trikatu"
+    ],
+    "type": "formulation_component",
+    "hindi": "Trikatu"
+  },
+  {
+    "term": "Takra",
+    "variants": [
+      "takra"
+    ],
+    "type": "formulation_component",
+    "hindi": "Takra"
+  },
+  {
+    "term": "Panchamrita",
+    "variants": [
+      "panchamrita"
+    ],
+    "type": "formulation_component",
+    "hindi": "Panchamrita"
+  },
+  {
+    "term": "Kutaja",
+    "variants": [
+      "kutaja"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kutaja"
+  },
+  {
+    "term": "Chitrak",
+    "variants": [
+      "chitrak"
+    ],
+    "type": "formulation_component",
+    "hindi": "Chitrak"
+  },
+  {
+    "term": "Haritakyadi",
+    "variants": [
+      "haritakyadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Haritakyadi"
+  },
+  {
+    "term": "Dadimashtaka",
+    "variants": [
+      "dadimashtaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dadimashtaka"
+  },
+  {
+    "term": "Mahayogaraja",
+    "variants": [
+      "mahayogaraja"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mahayogaraja"
+  },
+  {
+    "term": "Ksheerabala",
+    "variants": [
+      "ksheerabala"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ksheerabala"
+  },
+  {
+    "term": "Masha",
+    "variants": [
+      "masha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Masha"
+  },
+  {
+    "term": "Ghana",
+    "variants": [
+      "ghana"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ghana"
+  },
+  {
+    "term": "Shilajitwadi",
+    "variants": [
+      "shilajitwadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shilajitwadi"
+  },
+  {
+    "term": "Arjuna",
+    "variants": [
+      "arjuna"
+    ],
+    "type": "formulation_component",
+    "hindi": "Arjuna"
+  },
+  {
+    "term": "Ksheerapaka",
+    "variants": [
+      "ksheerapaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ksheerapaka"
+  },
+  {
+    "term": "Lavangadi",
+    "variants": [
+      "lavangadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Lavangadi"
+  },
+  {
+    "term": "Vasa",
+    "variants": [
+      "vasa"
+    ],
+    "type": "formulation_component",
+    "hindi": "Vasa"
+  },
+  {
+    "term": "Shilajitadi",
+    "variants": [
+      "shilajitadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Shilajitadi"
+  },
+  {
+    "term": "Amrutottara",
+    "variants": [
+      "amrutottara"
+    ],
+    "type": "formulation_component",
+    "hindi": "Amrutottara"
+  },
+  {
+    "term": "Parpatadi",
+    "variants": [
+      "parpatadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Parpatadi"
+  },
+  {
+    "term": "Kwatha",
+    "variants": [
+      "kwatha"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kwatha"
+  },
+  {
+    "term": "Kiratatiktadi",
+    "variants": [
+      "kiratatiktadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Kiratatiktadi"
+  },
+  {
+    "term": "Nimbadi",
+    "variants": [
+      "nimbadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Nimbadi"
+  },
+  {
+    "term": "Karanjadi",
+    "variants": [
+      "karanjadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Karanjadi"
+  },
+  {
+    "term": "Mahatiktaka",
+    "variants": [
+      "mahatiktaka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Mahatiktaka"
+  },
+  {
+    "term": "Aragwadhadi",
+    "variants": [
+      "aragwadhadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Aragwadhadi"
+  },
+  {
+    "term": "Medhya",
+    "variants": [
+      "medhya"
+    ],
+    "type": "formulation_component",
+    "hindi": "Medhya"
+  },
+  {
+    "term": "Saraswata",
+    "variants": [
+      "saraswata"
+    ],
+    "type": "formulation_component",
+    "hindi": "Saraswata"
+  },
+  {
+    "term": "Phala",
+    "variants": [
+      "phala"
+    ],
+    "type": "formulation_component",
+    "hindi": "Phala"
+  },
+  {
+    "term": "Ashoka",
+    "variants": [
+      "ashoka"
+    ],
+    "type": "formulation_component",
+    "hindi": "Ashoka"
+  },
+  {
+    "term": "Pippali",
+    "variants": [
+      "pippali"
+    ],
+    "type": "formulation_component",
+    "hindi": "Pippali"
+  },
+  {
+    "term": "Dhatryadi",
+    "variants": [
+      "dhatryadi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Dhatryadi"
+  },
+  {
+    "term": "Baladi",
+    "variants": [
+      "baladi"
+    ],
+    "type": "formulation_component",
+    "hindi": "Baladi"
+  },
+  {
+    "term": "Vataja",
+    "variants": [
+      "vataja"
+    ],
+    "type": "condition_component",
+    "hindi": "Vataja"
+  },
+  {
+    "term": "Pittaja",
+    "variants": [
+      "pittaja"
+    ],
+    "type": "condition_component",
+    "hindi": "Pittaja"
+  },
+  {
+    "term": "Kaphaja",
+    "variants": [
+      "kaphaja"
+    ],
+    "type": "condition_component",
+    "hindi": "Kaphaja"
+  },
+  {
+    "term": "Sannipataja",
+    "variants": [
+      "sannipataja"
+    ],
+    "type": "condition_component",
+    "hindi": "Sannipataja"
+  },
+  {
+    "term": "Aupasargika",
+    "variants": [
+      "aupasargika"
+    ],
+    "type": "condition_component",
+    "hindi": "Aupasargika"
+  },
+  {
+    "term": "Medohar Guggulu",
+    "variants": ["medohar guggulu", "Medohar Guggulu"],
+    "type": "formulation",
+    "hindi": "Medohar Guggulu"
+  },
+  {
+    "term": "Sarpagandha Vati",
+    "variants": ["sarpagandha vati", "Sarpagandha Vati"],
+    "type": "formulation",
+    "hindi": "Sarpagandha Vati"
+  },
+  {
+    "term": "Arjuna Churna",
+    "variants": ["arjuna churna", "Arjuna Churna"],
+    "type": "formulation",
+    "hindi": "Arjuna Churna"
+  },
+  {
+    "term": "Mahasudarshan Churna",
+    "variants": ["mahasudarshan churna", "Mahasudarshan Churna"],
+    "type": "formulation",
+    "hindi": "Mahasudarshan Churna"
+  },
+  {
+    "term": "Guduchi Kashaya",
+    "variants": ["guduchi kashaya", "Guduchi Kashaya"],
+    "type": "formulation",
+    "hindi": "Guduchi Kashaya"
+  },
+  {
+    "term": "Kantakari Avaleha",
+    "variants": ["kantakari avaleha", "Kantakari Avaleha"],
+    "type": "formulation",
+    "hindi": "Kantakari Avaleha"
+  },
+  {
+    "term": "Shatavari Churna",
+    "variants": ["shatavari churna", "Shatavari Churna"],
+    "type": "formulation",
+    "hindi": "Shatavari Churna"
+  },
+  {
+    "term": "Brahmi Vati",
+    "variants": ["brahmi vati", "Brahmi Vati"],
+    "type": "formulation",
+    "hindi": "Brahmi Vati"
+  },
+  {
+    "term": "Eranda Taila",
+    "variants": ["eranda taila", "Eranda Taila"],
+    "type": "formulation",
+    "hindi": "Eranda Taila"
+  },
+  {
+    "term": "Dhanvantara Taila",
+    "variants": ["dhanvantara taila", "Dhanvantara Taila"],
+    "type": "formulation",
+    "hindi": "Dhanvantara Taila"
+  },
+  {
+    "term": "Tribhuvankirti Rasa",
+    "variants": ["tribhuvankirti rasa", "Tribhuvankirti Rasa"],
+    "type": "formulation",
+    "hindi": "Tribhuvankirti Rasa"
+  },
+  {
+    "term": "Talisadi Churna",
+    "variants": ["talisadi churna", "Talisadi Churna"],
+    "type": "formulation",
+    "hindi": "Talisadi Churna"
+  },
+  {
+    "term": "Nishamalaki Churna",
+    "variants": ["nishamalaki churna", "Nishamalaki Churna"],
+    "type": "formulation",
+    "hindi": "Nishamalaki Churna"
+  },
+  {
+    "term": "Kaishore Guggulu",
+    "variants": ["kaishore guggulu", "Kaishore Guggulu"],
+    "type": "formulation",
+    "hindi": "Kaishore Guggulu"
+  },
+  {
+    "term": "Mahamanjisthadi Kashaya",
+    "variants": ["mahamanjisthadi kashaya", "Mahamanjisthadi Kashaya"],
+    "type": "formulation",
+    "hindi": "Mahamanjisthadi Kashaya"
+  },
+  {
+    "term": "Arshakuthar Rasa",
+    "variants": ["arshakuthar rasa", "Arshakuthar Rasa"],
+    "type": "formulation",
+    "hindi": "Arshakuthar Rasa"
+  },
+  {
+    "term": "Haridrakhand",
+    "variants": ["haridrakhand", "Haridrakhand"],
+    "type": "formulation",
+    "hindi": "Haridrakhand"
+  },
+  {
+    "term": "Prawal Pishti",
+    "variants": ["prawal pishti", "Prawal Pishti", "praval pishti"],
+    "type": "formulation",
+    "hindi": "Prawal Pishti"
+  },
+  {
+    "term": "Jatyadi Ghrita",
+    "variants": ["jatyadi ghrita", "Jatyadi Ghrita"],
+    "type": "formulation",
+    "hindi": "Jatyadi Ghrita"
+  }
+]

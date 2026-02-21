@@ -1,0 +1,10 @@
+priority_condition,priority_icd10,top_formulations,mapped_morbidity_codes,expert_signoff,signoff_notes
+Vibandha,K59.0,Triphala Churna; Abhayarishta; Avipattikar Churna; Draksha; Eranda Bhrushta Haritaki; Hingwashtaka Churna; Shankha Vati,AYM_001; AYM_005; AYM_009; AYM_013; AYM_017,Pending,
+Amlapitta,K21,Sutashekhar Rasa; Kamdudha Rasa; Praval Panchamrit; Chitrakadi Vati; Lavanbhaskar Churna; Bhunimbadi Kashaya,AYM_002; AYM_006; AYM_010; AYM_014; AYM_018,Pending,
+Sandhivata,M15-M19,Yogaraja Guggulu; Maharasnadi Kashaya; Dashamoola Kashaya; Simhanada Guggulu; Ashwagandha Churna; Vishgarbha Taila,AYM_021; AYM_025; AYM_029; AYM_033,Pending,
+Prameha,E11,Chandraprabha Vati; Shilajit; Guduchi; Nishamalaki; Triphala Guggulu; Arogyavardhini Vati; Medohar Guggulu; Punarnava Mandoor,AYM_036; AYM_040; AYM_044; AYM_048,Pending,
+Sthaulya,E66,Sarpagandha Vati; Varunadi Kashaya; Asanadi Kashaya; Kataka Khadiradi Kashaya; Dhanvantari Gutika,AYM_037; AYM_041; AYM_045; AYM_049,Pending,
+Raktachapa,I10-I15,Lohasava; Navayasa Loha; Vidangadi Churna; Guggulutiktaka Ghrita,AYM_038; AYM_042; AYM_046; AYM_050,Pending,
+Ashmari,N20,Gokshuradi Guggulu; Punarnavadi Kashaya; Chandanasava; Pashanabheda; Shveta Parpati; Trivikrama Rasa; Hajrul Yahud Bhasma,AYM_061; AYM_065; AYM_069,Pending,
+Mutraashmari,N20-N23,Varunadi Kwath; Punarnavasava; Ushiradi Kashaya,,Pending,
+Jwara,R50,Sitopaladi Churna; Talisadi Churna; Kantakari Avaleha; Vasavaleha,AYM_092; AYM_093; AYM_094; AYM_096; AYM_097; AYM_098,Pending,

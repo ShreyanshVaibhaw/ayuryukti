@@ -1,0 +1,18 @@
+{
+  "expert_review_required": true,
+  "source_documents": [
+    "AyurYukti_Design_Document.md",
+    "AyurYukti_Complete_Blueprint.md"
+  ],
+  "counts": {
+    "formulations": 216,
+    "morbidity_codes": 112,
+    "questionnaire": 30,
+    "vocabulary": 564
+  },
+  "notes": [
+    "Placeholder synthetic filler records were removed.",
+    "Clinical deployment requires line-by-line AYUSH expert verification.",
+    "ICD mappings are prototype interoperability mappings and need medical QA."
+  ]
+}

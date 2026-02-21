@@ -1,0 +1,4 @@
+scenario_id,district,state,condition_ayush,start_date,end_date,expected_multiplier,type
+OUTBREAK_001,Varanasi,Uttar Pradesh,Jwara,2025-08-01,2025-08-31,4.0,sudden_spike
+OUTBREAK_002,Chennai,Tamil Nadu,Kushtha,2025-06-01,2025-06-30,3.0,sudden_spike
+OUTBREAK_003,Jaipur,Rajasthan,Prameha,2025-10-01,2025-12-31,2.5,gradual_rise

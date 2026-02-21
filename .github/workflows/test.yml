@@ -1,0 +1,59 @@
+name: Tests
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgomp1 libsndfile1 ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov
+
+      - name: Generate synthetic data
+        run: python scripts/generate_synthetic_data.py
+
+      - name: Run tests
+        run: |
+          python -m pytest tests/ -v --tb=short -x \
+            --ignore=tests/test_integration.py \
+            -k "not neo4j and not knowledge_graph_seeding" \
+            2>&1 | head -200
+
+      - name: Run NER benchmark
+        run: python scripts/benchmark_ner.py
+        continue-on-error: true
+
+      - name: Run Prakriti benchmark
+        run: python scripts/benchmark_prakriti.py
+        continue-on-error: true
